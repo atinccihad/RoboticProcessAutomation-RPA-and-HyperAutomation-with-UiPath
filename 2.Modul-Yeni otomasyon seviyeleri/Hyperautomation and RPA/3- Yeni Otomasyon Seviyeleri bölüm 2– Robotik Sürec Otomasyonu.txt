@@ -1,0 +1,52 @@
+Yeni Otomasyon Seviyeleri bölüm 2 – Robotik Süreç Otomasyonu
+Transkript:
+ Yazılım robotları sanal robotlardır. Kısaca “Botlar” da denen akıllı bilgisayar programlarıdır.
+ Normalde beyaz yaka çalışanların yaptığı bir şekilde klasik ofis işlerini oldukça kolay, 
+hızlı ve verimli otomatikleştirmemize yardımcı olan yepyeni bir yazılım kuşağını temsil etmektedirler.
+ Ofis ortamındaki işler normalde bir PC veya notebook bilgisayar ile yapılır. Günümüzün en önemli yazılım robotu kategorisi olan 
+Robotik Süreç Otomasyonu, kısaca RPA: 
+ RPA bizlere geleneksel yatırım çözümlerini kullanarak az yatırım ve maliyetle, daha önce mümkün olmayan bir hız 
+ve kolaylıkla ofisimizin günlük işlerini otonomlaştırmanın eşsiz bir yolunu sunar.
+ Bu genellikle, bu botların çekirdek BT platformlarıyla etkileşime geçmek için karmaşık arayüzlere ihtiyaç duymamasından dolayıdır. 
+Tıpkı insan kullanıcılar gibi, yalnızca bu platformlara ve uygulamalara erişebilmeye ihtiyaç duyarlar. Bu da onların sadece bir 
+kullanıcı adı ve şifreye ihtiyaç duyması demek.
+ Bize para ve zaman kazandıran yaklaşım da tam olarak budur ve bu yüzden ofis ortamlarımıza büyük bir otomasyon dalgası yaklaşmaktadır.
+ Endüstride on yıllardır olan ve üretim süreçlerinin hatta tüm üretim hattının robotlaştırılması olarak adlandırılan şey günümüzde 
+biraz gecikmeyle de olsa hizmet sektöründe de yönetimde de yaşanan tam olarak budur. Üretim ortamlarındaki mavi yaka işlerin çoğunu 
+otomatikleştirmiş fiziksel robotlara benzer şekilde yazılım robotları da beyaz yaka ortamındaki rutin işleri hızla otomatikleştiriyor. 
+Aynı zamanda bu botlar insanları can sıkıcı belirli işlerden kurtarıyor.
+ Burada bahsedilen ağır ve sağlıksız işler değil bahsedilen şey sıkıcı ve tekrara düşen ve birçok kişinin yapmaktan nefret ettiği aptalca işler.
+Uzmanlar, önümüzdeki 15-20 yıl içerisinde, bahsedilen tüm işlerin %80’e kadarının yeni nesil yazılım robotlarıyla otonomlaştırılabileceğini tahmin ediyor. 
+Görece olarak kısa bir süre için büyük bir sayı. Bu yüzden, RPA adı verilen belirli yazılım alanındaki tüm liderlerin son yıllarda milyarlarca dolar 
+risk sermayesi kazanması Yani UIPath, Automation Anywhere and Blue Prism gibi firmaların kazanması bana şaşırtıcı gelmiyor. 
+Ve her yıl dünya çapında 3 sıfırlı rakamlarla büyüyor olmaları da aynı şekilde. Ve bu firmalardan ikisi dünya çapında en değerli yapay zekâ firmalarından. 
+“Unicorn” adı verilen, milyarlarca değeri olan firmalar arasındalar.
+ Hadi RPA çözümlerinin iş süreçlerindeki günlük ofis rutinlerini nasıl otomatikleştirebileceği üzerine örneklere bakalım. 
+İlk örnek olarak büyük bir uluslararası üretim firmasının yöneticisi olduğunuzu hayal edin. 
+Büyük miktarlarda tedariğin ve etkileşimin takibini yapmalı ve her birinden en iyi fiyatı aldığınızdan emin olmalısınız. 
+ERP adı verilen sofistike bir iş yönetim yazılımınız dahi olsa günlük bazda fiyatları takip etmek ve anlaşmaları yürütmek 
+oldukça iyi olurdu ve bu normalde düzenli yapılabilen bir şey değil. Şimdi sanal bir çalışan, sipariş büyüklüğünü 
+ve fiyatları her gün 24 saat takip eden her gün para biriktirebilmek için fırsatları kovalayan bir botunuz olduğunu hayal edin. 
+ Hatta, tedarikçiyle otomatik olarak e-postayla iletişime geçebildiğini ve fırsat veya siparişlerde artış gördüğünde 
+tedarikçiden daha düşük fiyat isteyebildiğini düşünün. Genelde bu tam otomatik fiyat pazarlıkları tedarikçi tarafından 
+sizin tarafınızda manuel müdahaleye gerek kalmadan direkt olarak onaylanır.
+ Bu küçük sanal robot arkadaşın yorulmadan sarf ettiği çabayla ne kadar değer yaratabileceğini hayal edin.
+ Başka bir örnek ise, İK departmanı tarafından gerçekleştirilen yeni eleman işe alımını her detayıyla destekleyen bir bot: 
+Bu tüm idari sürecin, belki de %95’inin otomatikleştirilebilmesi ve %100 güvenilir hale gelmesi demek. 
+Tüm firmalar için bir otonomlaşma fırsatı. Bir başka örnek, sigorta beyanlarını analiz eden, belirli beyanları kontrol ederek 
+onların sigorta kapsamında olup olmadığını kontrol eden ve anında otomatik olarak sigorta ödemelerini tahsil eden bir bot. 
+Müşterilere gerçekten “vov” dedirten ödemenin ertesi gün süper hızla tahsil edilmesi işlemi 
+hem beyan değerlendirme maliyetlerini düşürüyor hem de müşteri sadakatini arttırıyor.
+ Diğer örneğimiz ise bankalardaki konut finansmanı başvurularını desteklemek üzerine. Konut finansmanı botu çeşitli sistemlerden 
+ilgili tüm veriyi toplar ve kredi görevlisi için evet veya hayır kararı hazırlar. Kredi görevlisi, bot tarafından hazırlanan 
+materyali inceler ve kredi finansmanını onaylar ya da reddeder. Ardından bot kredi görevlisinden görevi alır 
+ve kredi finansmanı işlemini takip eden tüm görevleri yapar: Sözleşmeleri hazırlamak, müşterileri bilgilendirmek gibi.
+ Bu son örnek RPA botlarının insanlarla birlikte nasıl çalışabileceğine güzel bir ilustrasyon oluşturuyor. RPA botları bilgiyi 
+bir araya toplayarak tekrarlanan tüm rutin işleri yerine getirir. İnsan kredi görevlisi sürece insan yargısını katar ve 
+ardından bot tekrar tüm işleri devralır ve işi takip eden tüm sıkıcı idari görevleri yapar. İnsan ve botların böylesine 
+bir işbirliğinde bulunması girişimlerin dijital dönüşümünü hızlandıracak ve gelecekte nasıl çalışacağımızı şekillendirecek. 
+RPA botları gibi dijital yazılım robotları aracılığıyla akıllı otomasyon için tamamen yeni olasılıklar açabiliriz. 
+Onların yardımıyla tamamen yeni otomasyon seviyelerine ulaşabilir ve özellikle sanal botları daha gelişmiş bilişsel yapay zekâ 
+çözümleriyle birleştirerek yepyeni seviyelerde verimlilik ve yeterliklere ulaşabiliriz. Yani otomasyonun 
+sanal olarak hiçbir limiti yok. Zaten bu yüzden uzmanlar dikkat çeken yeni bir terim olan 
+“hiper otomasyon”u kullanmaya başladılar. Bu kelime yapay zekâ ile mümkün kılınan yepyeni bir otomasyon çağını temsil ediyor.

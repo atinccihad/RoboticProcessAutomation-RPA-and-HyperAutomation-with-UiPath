@@ -1,0 +1,66 @@
+RPA türleri ve kullanım alanları
+
+Transkript:
+ Robotik Süreç Otomasyonu olarak bildiğimiz RPA büyük bir mega trend,
+çok büyük bir şey olma yolunda ilerleyen yeni bir alandır.
+ Bununla beraber muhtemelen ekonomimizin ve toplumumuzun tüm alanlarına giren kitlesel bir fenomen haline gelecek 
+ilk AI segmentidir. 
+ RPA dediğimizde, aslında farklı RPA türlerinden bahsediyoruz. 
+En üst düzeyde, genel olarak iki farklı RPA otomasyonu kategorisi vardır. Dolayısıyla, iki farklı tipte RPA botu da vardır. 
+ İlk kategorimiz gözetimsiz botlar. 
+Bazen desteksiz botlar olarak da adlandırılan gözetimsiz botlar, bir insan tarafından doğrudan tetiklenmeyen botlardır. 
+Daha doğrusu, arka planda önceden tanımlanmış işleme görevlerini yerine getirirler. Tabiri caizse onları başlatmak için 
+açık bir insan müdahalesi gerekmeksizin tamamen otomatik çalışırlar. Gözetimsiz botlar önceden tanımlanmış bir şekilde 
+otomatik olarak tetiklenir.
+ Örneğin, 
+bir BT sisteminde belirli bir veri girişi olduğunda. Bu, BT sisteminde yeni bir veri veya yeni bir işlem olabilir. 
+Gözetimsiz botlar, yine doğrudan insan müdahalesi olmadan başka bir bot tarafından tetiklenerek başlatılabilir. 
+Ayrıca bu botlar, görevlerini gerçekleştirmek için özel olarak planlanmış zamanlarda otomatik olarak başlayabilir.
+ Genel olarak, gözetimsiz botlar, arka ofis çalışanlarının işlerini azaltmak için idealdir. 
+Bir bilgisayar bir dizi programı ve görevi insan müdahalesi olmadan çalıştırdığında tıpkı geleneksel toplu işleme işleri gibi 
+arka planda veri işleme görevlerini tamamlayabilirler.
+ İkinci kategorimiz gözetimli botlar Gözetimli botlar doğrudan bir insan operatör tarafından tetiklenir. 
+Bu, botları başlatmak için açık bir insan müdahalesi gerektiği anlamına gelir. 
+Ve bu yüzden bazen destekli botlar olarak adlandırılırlar. 
+Örneğin, 
+bir müşteri için belirli bir işlemi tamamlaması gereken bir satış görevlisini veya müşteri hizmetleri temsilcisini düşünün. 
+ Bu işlemi tamamlamak için, farklı BT sistemlerinde ve ekranlarında bir dizi farklı görevin paralel olarak gerçekleştirilmesi 
+gerekir. Bu görevleri manuel olarak yerine getirmek yerine sorumlu kişi sadece bir düğmeye basabilir ve gözetimli bir botu 
+başlatabilir. Bu bot daha sonra bir insan gibi çalışarak gerekli tüm işlemleri kendi başına gerçekleştirebilir hatta gerekirse 
+bir insandan rehberlik etmesini isteyebilir.
+ Bu sırada satış elemanı veya müşteri hizmetleri temsilcisi dikkatini müşteride toplayabilir. 
+Bu örnek, bazen Robotik Masaüstü Otomasyonu olarak adlandırılan tetiklenen otomasyonun müşterilerle karşılaşan ancak yine de 
+manuel çalışma yapması gereken çalışanları güçlendirmenin özellikle iyi bir yolu olduğunu göstermektedir.
+ Artık gözetimli ve gözetimsiz botlar olmak üzere iki bot kategorisi arasında ayrım yapabilirsiniz.
+Ve şimdi bu tür botları inşa etmek için alternatif yaklaşımlar hakkında da konuşmalıyız. Aslında, RPA botlarını oluşturmanın 
+ve kurmanın dört temel yolu vardır.
+ İlk olarak kodlamadan bahsedelim. 
+Kodlama, uygun bir programlama dili kullanarak RPA botlarını oluşturmanın ve kurmanın en eski ve en temel yoludur. 
+Kodlama için gereken talimatları uygulayarak belirli bir bot tasarlayabilir ve botunuzun gerçekleştirmesini istediğiniz 
+tüm belirli eylemleri tanımlayabilirsiniz. Bu yaklaşım doğal olarak nispeten yüksek teknik beceriler, eğitim ve sabır gerektirir.
+Bu nedenle, bu yöntem yalnızca teknik açıdan bilgili kişiler için uygundur.
+ İkinci olarak bahsedeceğimiz yol ise grafik kullanıcı arayüzleridir. 
+Önde gelen RPA teknolojisi sağlayıcılarımız bir bot oluşturmayı çok daha kolay hale getiren 
+grafik kullanıcı arayüzlerine sahip RPA yazılım çözümleri oluşturdu.Bu arayüzler sayesinde botunuzu doğrudan kodlamanıza gerek 
+kalmaz bunun yerine botunuzun ne yapması gerektiğini sürükle 
+ve bırak eylemlerini gerçekleştirerek belirleyebilirsiniz.RPA yazılımı, otomatik olarak bu sürükle ve bırak işlemlerini teknik 
+bot talimatlarına dönüştürür. Bu gelişmiş RPA yazılım çözümlerinden bazıları gerçek kodlama ve programlama yerine basit bir 
+sürükle ve bırak yöntemiyle en azından basit botlar kurmak için bir şirketteki herkesin pratikte yetkilendirilmesini mümkün kılar.
+ Üçüncü çözüm ise kayıt tutmaktır. RPA, tıpkı Excel botlarındaki makrolar gibi kaydedilmiş eylemleri gerçekleştirebilir. 
+Bu, botunuzu belirli bir işleme görevini nasıl yerine getireceğini göstererek eğitebileceğiniz anlamına gelir. Eğitimli bot 
+daha sonra kaydedilen eylemleri kendi başına gerçekleştirecektir. 
+Örneğin, bir sistemden veri alacak başka bir sistemdeki verilerle birleştirecek ve ardından verileri belirli bir şekilde 
+işleyecektir. Son olarak kendi kendine öğrenen botlardan bahsedelim. Kendi kendine öğrenen botlar, belirli görevleri 
+otomatikleştirme fırsatlarını belirlemek ve hatta nasıl yapılacağını öğrenmek için çalışan faaliyetlerini bağımsız olarak 
+gözlemler. Kendi kendine öğrenen botlar kendilerini programlayabilir. Bu elbette RPA botlarını oluşturmanın ve kurmanın 
+en gelişmiş ve en kolay yoludur. Ancak, bugün itibariyle hem kaydeden hem de kendi kendine öğrenen botlar RPA alanında 
+hala nispeten yenidir ve bazı sınırlamalara sahiptir. Mevcut çözümler genellikle yeterli olgunluğa sahip değildir. 
+Bu nedenle, hatalar meydana gelebilir. Özellikle ilk dağıtım sırasında botlar hata yapabilir. Bu nedenle faaliyetlerinin 
+dikkatle izlenmesi gerekir.
+ Özetlemek gerekirse, bu bölümde RPA botlarımızın insan operatörler tarafından doğrudan tetiklenen gözetimli botlar ve 
+insan müdahalesiyle başlatılması gerekmeyen aksine arkaplanda bağımsız olarak çalışan gözetimsiz botlar adlı iki farklı 
+kategorisini ayırt etmeyi öğrendik. Ayrıca RPA botlarını oluşturmanın ve kurmanın dört alternatif yolunu da gördük: 
+Kodlayarak Sürükle ve bırak özellikli daha gelişmiş grafik kullanıcı arayüzleri kullanarak Kayıt yaparak 
+ve hatta kendi kendine öğrenen botlarla çalışarak gerçekleşen alternatifler.
+ Farklı türlerde RPA botları oluşturmak için birçok seçenek mevcuttur. Bunlar nispeten kolay, hızlı ve büyük yatırımlar 
+gerektirmeyen seçenekler.RPA’nın hızla büyüyen bir mega trend olmasının nedeni budur.

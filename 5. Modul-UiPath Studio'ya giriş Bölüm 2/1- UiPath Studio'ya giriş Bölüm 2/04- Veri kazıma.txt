@@ -1,0 +1,4 @@
+ Şimdi, UiPath data scraping i anlayalım, bir uygulama tarayıcısından veya belgeden bir veritabanına 
+yapılandırılmış bilgi çıkarmanıza izin verir.
+ Bunlar Excel dosyası veya bir tarayıcı belgesi, bir modelde sunulan her türlü bilgilerdir. Örneğin bir alışveriş 
+web sitesindeki ürünlerin liste halinde Excel sayfasında yer alması gibi.

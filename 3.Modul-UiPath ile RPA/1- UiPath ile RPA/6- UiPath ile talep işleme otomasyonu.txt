@@ -1,0 +1,19 @@
+UiPath ile talep işleme otomasyonu
+Transkript:
+ Robotik Süreç Otomasyonu (RPA) ile şirketleri, zaman alan ve tekrarlayan görevleri otomatikleştirebilir. 
+Böylece sigorta şirketleri verimliliği ve üretkenliği arttırabilir. Sigorta taleplerini işlemek genelde çokça tekrarlayan 
+süreçler içerir.
+ Her biri manuel olarak yapılan bu tür binlerce işlem sigorta acentelerine kişisel hizmet sağlamak için daha az zaman bırakır.
+RPA botları, talep alımı ve veri doğrulamadan e-posta ve cevap sonrası takibe kadar tüm bu adımları otomatikleştirebilir. 
+Alanında lider olan Uipath’ten birkaç örneğe göz atalım.
+ Örneğin talepler e-posta ile gönderildiğinde bir çalışanın bunu incelemesi okuması ve takip etmesi yerine 
+bir Uipath botu bunu yapabilir.
+ Yeni bir e-posta geldiğinde bot e-postayı okur ve yeni sigorta talebi ile ekli dosyaları okur, tanımlar. Dosyaları 
+sınıflandırır, tarar ve gerekli bilgileri dosyalardan alır.
+ Sonra da bu bilgileri gelecek adımlar için başka bir bot veya çalışan devreye gireceği yönetim sistemine girer.
+Her gün saatlerce süren işler birkaç dakikaya indirgenebilir. RPA botları ayrıca şirketin içinden de talep dosyaları 
+toplayabilir bunları karşılaştırabilir ve taleplerin durumunu belirleyebilir. Poliçeleri sahtekarlık için kontrol edebilir 
+ve ödenme geçerliliklerini doğrulayabilir, ödeme belgelerini kaydedebilir ve periyodik raporlar hazırlayabilir.
+ Tüm bu işler herhangi bir hata olmadan otomatikleştirilebilir. Hatta bu sayede dolandırıcılık ve insan hataları azaltılabilir.
+Yani işlerin RPA botları tarafından yapılması talep işleme süreçlerini hızlandırır operasyonel maliyetleri düşürür ve 
+müşteri memnuniyetini arttırır. Ve bunlar RPA botlarının sigorta şirketleri için yapabileceklerinin yalnızca küçük bir kısmıdır.

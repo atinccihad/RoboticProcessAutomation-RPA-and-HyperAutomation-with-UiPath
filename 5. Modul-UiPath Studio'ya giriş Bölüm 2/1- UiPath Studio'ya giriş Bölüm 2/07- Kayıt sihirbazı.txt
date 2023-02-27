@@ -1,0 +1,28 @@
+Record 
+ Record türünü seçtiğinizde UiPath stüdyosu, tüm kayıt türleri için kayıt sihirbazını açacak ve bu kayıt türü ortamlarına
+özgü eylemlere erişmenizi sağlayan kendi araç çubuğuyla birlikte gelecektir. 
+ Sihirbazlar arasında ortak olan bazı eylemler vardır, 
+masaüstü, 
+temel ve 
+web kayıt sihirbazları 
+oldukça benzerdir.
+ Record, otomatik kaydı başlatır ve kayıt butonuna tıklamayı başlatmak için kullanıcı eylemlerini yakalar. Ve kayıt cihazı,
+kullanıcı eylemlerini yakalamaya başlayacak, küçük bir pencere açılacak ve fare imlecinin gezindiği alanın 
+büyütülmüş bir görünümünü gösterecek. Kullanıcı, vurgulanan alan üzerinde sarı kenarlıklı mavi bir ekran görecektir. Otomatikleştirmek 
+istediğimiz kullanıcı eylemlerini  gerçekleştirmeye devam edebilirsiniz. 
+ UiPath ile birden çok aktivite oluşturulur. Otomatik kayıt cihazının tıklama ve yazma gibi ana etkinlikleri 
+yakaladığını göreceksiniz. Bunların hepsini yakalayamıyorsa, kaydedici alt menüsünün kaydetme ve çıkma özelliğini kullanarak 
+bunları ayrı ayrı ekleyebilmelisiniz. 
+
+Save & Exit
+ Bu seçenek yalnızca kayıt cihazı açıkken etkinleştirilir ve kayıt cihazını kapatır ve sizi otomatik olarak oluşturulan
+etkinlikleri gösteren tasarımcı penceresine geri götürür. Kayıt seçeneğinin sağında eylemler sihirbazı vardır.
+ Başlangıç uygulaması, 
+- tıklama, 
+- yazım, 
+- kopyalama, 
+- öğe, 
+- metin ve 
+- resim 
+ seçeneklerinden oluşur. Belirtildiği gibi, bunların tümü, kayıt cihazı tarafından otomatik olarak yakalanmayan 
+belirli eylemleri eklemenize yardımcı olacaktır.

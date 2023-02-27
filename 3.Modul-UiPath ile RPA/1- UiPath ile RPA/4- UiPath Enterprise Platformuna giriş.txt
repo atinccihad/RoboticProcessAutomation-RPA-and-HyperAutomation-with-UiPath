@@ -1,0 +1,46 @@
+UiPath Enterprise Platformuna giriş
+Transkript:
+ Robotik Süreç Otomasyonu insanların çalışma şeklini geliştirmek için kanıtlanmış bir yoldur. 
+Sıradan ve tekrar eden görevleri otomatikleştirerek, kullanıcılara, düşündürücü işlere odaklanmak için daha fazla zaman bırakır. 
+Bu yaratıcılık, kritik düşünme ve insan yargısı gerektirir.
+ Artan sayıda kuruluş için, UiPath Enterprise RPA Platformu RPA dağıtımı için doğru seçimdir. 
+Aslında, UiPath Enterprise RPA Platformu otomatik bir sanal iş gücü oluşturarak dünya çapında 1000’den fazla şirkete 
+yardımcı oldu. UiPath Enterprise RPA platformu ile şirketler kapasite kazanabilirler, verimliliklerini yükseltebilirler, 
+süreç ölçeklenebilirliğini ve esnekliğini arttırabilirler.
+ UiPath Enterprise RPA Platformu üç ana bileşenden oluşur. 
+Stüdyo, robotlar ve orkestratör. 
+Stüdyo, geliştirici becerilerine sahip olmayan insanların süreç kaydediciler, 
+önceden hazırlanmış sürükle bırak özellikleri ile hızla RPA iş akışları oluşturabilecekleri son derece görsel, 
+sezgisel bir otomasyon aracıdır.
+ Robotlar stüdyoda oluşturulan yazılım işçicileridir. UiPath robotu her iş sürecini dağıtır. 
+Katılımcı robotlar çalışanlara doğrudan yardımcı olur, gözetimsiz (katılmayan) robotlar bağımsız olarak çalışır.
+ Son olarak, orkestratör robotları atayan, işlerin zamanını ayarlayan ve performansı raporlayan akıllı bir konsoldur.
+ Tüm UiPath Enterprise RPA Platformu bileşenleri sorunsuz ve hızlı bir şekilde birlikte çalışarak benzersiz, 
+yenilikçi, uçtan uca çözümleri ile müşterilere performans, maliyet ve kullanıcı deneyimi açısından rekabet üstünlüğü verir.
+ UiPath Enterprise RPA Platformu ile, kullanıcılar uçtan uca iş süreçlerinin üstesinden gelebilirler ve sistemi, 
+değişen talepleri karşılayacak şekilde ölçeklendirebilirler.
+ Hadi UiPath RPA teknolojisinin temeline daha yakından bakalım. 
+Sektör lideri yenilikler UiPath’e, rakiplerinden %30’dan %40’a kadar hızlı çalışan otomasyon sağlar. 
+Yenilikler, tıklamalı süreç adımlarındaki kendini belgeleyen kaydedicileri, anında yeni iş akışları oluşturan 
+300’den fazla sürükle ve bırak otomasyonlarını AI bilişsel teknolojileri ile sürükle bırak integrasyonlarını içerir.
+ Orkestratör, minimum insan etkileşimi gerektiren zaman akışını ve servis seviyelerini buluşturmak için akıllı programlama 
+teknolojisini kullanır. Orkestratör, tüm otomasyon faaliyetlerini izler, değişen talepleri karşılamak için robot sayısını 
+ayarlar, ve otomatikleştirilmiş iş süreçleri hakkında raporlar üretir.
+ Eşsiz çok yönlülük sunan UiPath robotları bir masaüstü, veri merkezi veya buluttan hatasız süreç otomasyonu gerçekleştirebilir.
+Bu sanal çalışanlar, insanlarla birlikte çalışabilir veya gözetimsiz olarak ön ya da arka ofis işlerini tamamlamak üzere çalışabilirler.
+ UiPath robotları işleri birbirine devretmenin yanı sıra, sohbet robotlarıyla da entegre olabilir. UiPath, sizin AI’ya 
+giden yolunuzdur. Robotlarımız büyük çoğunlukla UiPath tescilli bilgisayar görüş teknolojiisi ve açık AI mimarisiyle 
+her yeni RPA sürümüyle daha akıllı hale gelmekteler. UiPath bilgisayar görüşü robotların bilgisayar ekranında, 
+tıpkı insan gözü gibi nesneleri tanıması demektir. Bu eşsiz yetenek UiPath’in Citrix ortamlarını diğer çözümlerden 
+3-4 kat daha hızlı otomatikleştirmesinin nedenidir. Ayrıca bu, UiPath robotlarının otomasyon kesintileri ve 
+bakım giderlerinden kaçınmak için nasıl ekran değişimlerini ayarladığına bir cevaptır.
+ UiPath açık AI mimarisi 50’den fazla partnerin olduğu bir ekosistemi destekler. Böylece robotlar e-mailleri 
+ve makine öğrenmesi modellerinin sağladığı yazılar da dahil, görmek, anlamak ve yapılanmamış içeriği devam ettirmek 
+için bilişsel yeteneklerini kullanabilirler.
+ Böylece robotlar sadece kurallardan değil, deneyimlerden de öğrenebilir. UiPath Enterprise RPA Platformunun 
+tamamını kaplamak verileri üç şekilde koruyan sınıfının en iyisi güvenlik çerçevesidir.
+ İlk olarak, verileri stüdyo, orkestratör ve robotlar arasındaki hareketi sırasında korur.
+ İkinci olarak, veriler arşivlerde, günlüklerde ve veritabanlarında saklanırken korur.
+ Ve son olarak, verileri harici siber saldırılar altındayken korur.
+ Öyleyse neden bekleyelim? Doğru enterprise RPA platformu sadece bir tık uzağınızda. UiPath’i bugün indirin 
+ve satın almadan önce ücretsiz olarak deneyin. UiPath yenilikçi teknolojisinin neden RPA endüstrisinin kasıp kavurduğunu kendiniz öğrenin.

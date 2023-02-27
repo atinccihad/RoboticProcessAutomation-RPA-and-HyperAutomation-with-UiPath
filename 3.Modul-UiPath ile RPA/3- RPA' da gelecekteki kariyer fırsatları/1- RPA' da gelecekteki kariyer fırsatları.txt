@@ -1,0 +1,57 @@
+RPA’da gelecekteki kariyer fırsatları
+
+Transkript:
+ Uzmanlar, hayatımızın pek çok alanında tüm insan görevlerinin ve prosedürlerinin yüzde 40’ına, hatta yüzde 50’sine 
+kadarının otomatik hale getirilebileceğini ve önümüzdeki 20 yıl içinde RPA gibi modern teknolojiler tarafından devralınabileceğini söylüyor. Bunun sonucunda, birçok kişinin şu anda yapmakta oldukları işi kısmen makineler tarafından devralınacağı için insanlar önceki işlerini değiştirmek zorunda kalacak. Öte yandan, yalnızca kodlayıcılar ve programcılar gibi teknik insanlar için değil kelimenin tam anlamıyla her alanda işlev ve sektörde ortaya çıkan çok sayıda yeni iş ve kariyer fırsatı var. Süreçleri daha hızlı, daha yalın, daha iyi hale getirmek ve pozitif değer yaratmak için modern RPA teknolojilerini nerede, ne zaman ve nasıl kullanacağını anlayabilen ve belirleyebilen önemli ölçüde daha fazla insana ihtiyaç duyduğumuz için tamamen yeni iş ve kariyer fırsatları ortaya çıkıyor. Ve bu video oturumunda tam olarak odaklanacağımız konu bu.
+ RPA tamamen yeni iş ve yeni kariyer fırsatları açar. Sadece teknik işlerden değil, aynı zamanda çok sayıda teknik olmayan 
+işlerden ve kariyer fırsatlarından da bahsediyoruz.
+ Teknik olmayan biriyle başlayalım. 
+Otomasyon yolculuğunun tamamı, iş süreçlerinin akıllıca analizi ve çok uygun otomasyon kullanım durumlarının tanımlanmasıyla başlar. 
+Bu nedenle, iş süreci uzmanları, süreç iyileştirme girişimlerinin sorumlusu olarak önemli bir rol oynamaktadır. 
+Genellikle Lean, Kaizen veya Six Sigma gibi geleneksel süreç iyileştirme metodolojileriyle aynı zamanda modern süreç 
+iyileştirme metodolojilerinde ve süreç modelleme veya süreç madenciliği gibi araçlarda eğitilirler. 
+Süreç uzmanları, özel alan uzmanlığından kesinlikle yararlanabilir. Bu, sektöre özgü uzmanlık veya işlevsel alan uzmanlığı 
+anlamına gelen dikey olabilir. Süreç uzmanları günlük çalışmalarda süreç iyileştirmeleri ve süreçlerin otomasyon için 
+uygunlukları açısından onları olduğu gibi analiz etmeye yardımcı olur. Kullanım senaryosu ardışık düzenini dolduran uygun 
+otomasyon durumlarını belirler ve geleceğin süreçler ve otomasyon botları olarak tasarlanmasını desteklerler.
+ Bir başka tamamlayıcı rol olan İş Analistleri ile yakın bir şekilde çalışırlar.
+İş analistleri, belirli bir sektörle veya belirli bir iş işleviyle ilgili belirli alan uzmanlığından da yararlanabilir. 
+İş analistleri normalde ya dikey ya da fonksiyonel iş ekiplerine tamamen yerleştirilmiştir ve otomasyon girişimini süreç 
+tanımları, süreç haritalama, süreç analizi ve dokümantasyon ve tabii ki birlikte tasarlanmış optimize edilmiş ve 
+otomatikleştirilecek süreçleri süreç uzmanları ile birlikte destekler.
+ Teknik tarafta RPA geliştiricilerimiz var: 
+RPA botlarını tasarlıyor, 
+test ediyorlar; 
+ayrıca botların konuşlandırılması, 
+test edilmesi, 
+hatalarının düzeltilmesi ve 
+bakımından sorumlular.
+ RPA geliştiricileri, RPA yazılım teknolojilerini iyi anlamalı ancak aynı zamanda alana özgü dikey 
+veya fonksiyonel iş süreçlerini optimize etmeye gerçek bir ilgi duymalıdır.
+ Çünkü, kodluyor olmak için kodlamak yerine gerçekten olumlu iş çıktıları yaratmaya odaklanmaları gerekir.
+ Başka bir teknik iş profili: 
+Otomasyon Mimarları. 
+Otomasyon Mimarları ileri teknik becerilere ihtiyaç duyar ve RPA çözümlerinin genel mimari tasarımından sorumludur. 
+Otomasyon stratejileri, altyapı kurulumu, çözüm tasarım ilkeleri ve DevOps konularında çok bilgili olmalıdırlar. 
+Otomasyon Mimarları, doğaları gereği, verimli, iyi yapılandırılmış, bakımı yapılabilir ve anlaşılması kolay iş akışı 
+ilkelerinin kullanımını teşvik eden sorun çözücüler olmalıdır. Büyük resmi görebilmelilerdir ve teknik ile iş insanları 
+arasındaki köprüyü kurabilmelilerdir. Ve bu insanlarla olan iletişimleri iyi olmalıdır. Kritik minimum sayıda bot 
+yaratmış şirketlerin aynı zamanda paralel çalışan yüzlerce botun karmaşık etkileşimini düzgün çalıştırmak ve sürdürebilmek 
+için iyi yapılandırılmış operasyonel süreçlerle tüm bot çiftliklerini teknik olarak yönetme konusunda uzmanlaşmış 
+yöneticilere ihtiyacı vardır. Bu kişiler aynı zamanda bunun en yüksek derecede istikrar, güvenilirlik, güvenlik ve 
+ayrıca uyumluluk ile yapıldığından emin olmalıdır.
+ Bunlar, Bot Çiftliği Operasyonları Yöneticisinin günlük görevleridir. Genel olarak, program ve proje yöneticilerine de 
+ihtiyaç vardır. RPA programını veya projesini yolda tutarak tüm otomasyon girişimini ileriye götürenler onlardır.
+ Program yöneticileri tüm şirketteki otomasyon hattını idare etmek uyumluluk, güvenlik ve kod kalite standartları için 
+yıpranma ve dayanıklılığı yönetebilmelilerdir. Program yöneticileri ayrıca performans raporlaması ve ölçümlerinden dahili 
+paydaş yönetiminden, kritik bağımlılıkları ele almaktan ve iş ve teknik yönlerde gerekli olan tüm ilgili dahili ve harici 
+tarafları birbirine bağlamaktan sorumlu olabilir.
+V e bir de RPA programlarını başarıyla ölçeklendirebilmek için RPA pazarlamacılarına ihtiyacımız var. 
+Bunlar RPA programlarının dahili olarak tanıtımını yapan ve pazarlayan kişilerdir. RPA’ nın iş değerini satmak için 
+dahili müşterilerle çalışırlar ve fırsatlar ve aday süreçlerle RPA süreç hattının beslenmesine katkıda bulunurlar.
+ İş süreci uzmanları İş Analistleri RPA Geliştiricileri Otomasyon Mimarları Bot Çiftliği Operasyonları Yöneticisi Programlar 
+ve Proje Yöneticileri Ve aynı zamanda RPA pazarlamacıları.
+ Bunlar, önümüzdeki yıllarda önemli bir önem kazanacak olan bazı iş profillerinin örnekleridir. Tüm sektörlerde ve 
+iş fonksiyonlarında ortaklaşa pozitif iş değeri yaratmak için hem iş hem de teknik tarafta tamamen yeni iş ve kariyer 
+fırsatları açılıyor. Ekonomimiz, toplumumuz ve her birimiz için muazzam bir fırsat. Robotik Süreç Otomasyonu ve pratikte 
+modern RPA’nın nasıl başarılı bir şekilde uygulandığı hakkında daha fazla bilgi edinmek için fazlasıyla yeterli neden.

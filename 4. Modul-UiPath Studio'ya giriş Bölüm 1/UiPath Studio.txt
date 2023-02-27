@@ -1,0 +1,50 @@
+============================================================================================================
+UiPath'te Studio nedir?
+ UiPath Studio ,
+iş kullanıcılarından gelişmiş RPA geliştiricilerine kadar herkese harika yazılım robotları oluşturmak için
+doğru otomasyon tuvalini ve kuruluşlara hepsini yönetmek için doğru yönetişim araçlarını sunan gelişmiş bir 
+otomasyon yazılımıdır .
+============================================================================================================
+UiPath Studio ücretsiz mi?
+ UiPath Studio Community,
+bireysel geliştiriciler,
+küçük profesyonel ekipler,
+eğitim ve öğretim amaçları için ücretsizdir . ..
+============================================================================================================
+UiPath ne için kullanılır?
+ UiPath süreçleri kolaylaştırır,
+verimlilikleri ortaya çıkarır ve
+içgörüler sağlayarak dijital dönüşüme giden yolu hızlı ve
+uygun maliyetli hale getirir .
+ Kesintiyi en aza indirmek için mevcut sistemlerden yararlanır.
+============================================================================================================
+RPA için en iyi dil hangisidir?
+RPA UiPath'te Kullanılan Programlama Dilleri
+ En iyi programlama dillerinden bazıları
+- Java,
+- Python,
+- C++,
+- C#,
+- Visual Basic,
+- SQL,
+- PHP ve
+- JavaScript'tir .
+============================================================================================================
+En iyi ücretsiz RPA aracı hangisidir?
+ 2023'ün En İyi 10 Ücretsiz Robotik Proses Otomasyonu (RPA) Yazılımı
+- UiPath Business Automation Platform.
+- Automation Anywhere - RPA | Robotic Process Automation.
+- Aiwozo.
+- Rocketbot.
+- SS&C Blue Prism Intelligent Automation Platform.
+- IBM Robotic Process Automation.
+- WinAutomation by Softomotive.
+- akaBot.
+============================================================================================================
+UiPath'in bir geleceği var mı?
+ UiPath robotları,
+aynı çıkarımları yapabilecek ve aynı görevleri tamamlayabilecek noktaya geliyor .
+Semantik otomasyon ileriye doğru dev bir adım olacak.
+Otomasyon gelişimini hızlandıracak ve basitleştirecek, otomasyonların güvenilirliğini artıracak ve 
+otomasyon kullanım örneklerini genişletecek.
+============================================================================================================

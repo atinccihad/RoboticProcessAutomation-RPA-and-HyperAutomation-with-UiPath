@@ -1,0 +1,8 @@
+ Akış şemalarının sırasını anlayalım. Bir akış şeması, kullanılan faaliyetlerin ve altında yatan mantığın 
+çok iyi bir temsilini sunan UiPath'ta bir proje türüdür. Bu şekilde, birden çok dallanma ve mantıksal işlem çok doğru bir 
+şekilde temsil edilebilir ve bu da, etkinlikleri birden çok yolla bağlamanıza ve bir akış şeması
+oluşturmak için karmaşık iş süreçleri  oluşturmanıza olanak tanır. Activities bölümünde arayabilir veya 
+New bölümüne tıklayıp ardından akış şemasına tıklayabilirsiniz.
+Bir akış şemasını ne zaman kullanırsınız?
+ Akış çizelgeleri, bir bot tasarlanırken ve yürütülürken kontrol akışını veya mantığı tasvir etmenin 
+zorlayıcı bir yolunu sundukları için mantığın görünür olması ve kolayca anlaşılması gerektiğinde en iyi şekilde kullanılabilir.

@@ -1,0 +1,10 @@
+ANI : Artificial Narrow Intelligence(Yapay Dar Zeka)(or WEAK AI{zayıf yapay zeka})
+AGI : Artificial General Intelligence(Yapay Genel Zeka)(or Gerçek Yapay Zeka)
+RPA : Robotik Süreç Otomasyonu(Ofisimizin günlük işlerini otonomlaştırmamızı sağlar)
+IT : Information Technology(Bilgi Teknolojisi)
+BT : IT veya Bilgi Sistemleri
+Hyper Automation : Yapay Zeka Sistemleri ile otonomlaştırma(Rekabetçi olmak veya Rekabetçi kalmak isteyen her şirket ve organizasyon için bir gereklilik)
+IOT : Nesnelerin Interneti
+RSO : Robotik Süreç Otomasyonu
+SAP : SAP, kuruluşlar arasında etkili işlemeyi ve bilgi akışını kolaylaştıran çözümler geliştirerek, iş süreçlerinin yönetimi için dünyanın önde gelen yazılım üreticilerinden biridir.
+SPA(Tek Sayfa Uygulaması) : Yalnızca tek bir web belgesini yükleyen ve ardından farklı içerik gösterilecek olduğunda XMLHttpRequest ve Fetch gibi JavaScript API’leri aracılığıyla bu tek belgenin gövde içeriğini güncelleyen bir web uygulamasıdır. 

@@ -1,0 +1,6 @@
+ Döngü, belirli bir koşul karşılanana kadar veya bu süre kadar bir talimat dizisini tekrarlayan bir programlama yapısıdır.
+Örnek verecek olursak;
+ Diyelim ki belirli bir şarkıyı seviyorsunuz. Çalacaksın ve sonra tekrar dinlemek istersen, tekrar çalabilirsin. Bu, 
+sıkıldığınız anda sıkılıncaya kadar bunu yapmaya devam edebileceğiniz bir döngü örneğidir. Şarkıyı tekrar dinlemek istemezsin
+ve böylece döngüden çıkarsınız.  Burada şarkıyı çalmak onu dinlemek istediğinizin talimatıdır. Koşul yine sağlandığı sürece
+şarkı çalmaya devam edecektir.

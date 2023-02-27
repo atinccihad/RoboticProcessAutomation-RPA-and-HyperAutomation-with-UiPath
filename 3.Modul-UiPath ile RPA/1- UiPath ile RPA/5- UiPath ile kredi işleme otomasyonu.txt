@@ -1,0 +1,28 @@
+UiPath ile kredi işleme otomasyonu
+Transkript:
+ Robotik süreç otomasyonu RPA, zaman alıcı ve tekrarlayan görevleri ortadan kaldırır. 
+Böylece bankaların günlük işlemlerindeki verimliliği ve üretkenliği artar. Önde gelen bir RPA tedarikçisi olan 
+Uipath’ın kredi işlemlerinde iki örneğe bakalım.
+ İlk olarak, bir insanla işbirliği yapan bir bot, görevli bir RPA ve ardından daha gelişmiş bir yapay zekâ çözümü 
+ile entegre edilmiş bir bot. Bankacılıktaki en sinir bozucu görevlerden biri kredi mutabakatıdır. Tipik olarak, 
+her ayın sonunda kredi verilerini uzlaştırmak için çalışanların iki kredi kaydını karşılaştırması gerekir.
+ Biri genellikle kredi oluşturma sistemindeki ve diğeri yerel muhasebe sistemindeki kayıttır. Her iki sistemde de 
+her kaydı incelemek saatler ve bazen günler sürebilir. Uipath görevli robotu, manuel olarak tekrarlanan işi devralabilir 
+ve yalnızca bir uyumsuzluk olduğunda çalışanı uyarabilir.
+ Bot, iki kredi verisi kümesini karşılaştırabilir ve iki sistem arasında bir eşleşme belirlediğinde, sonuçla bir not alır 
+ve tıpkı çalışanın yapması gerektiği gibi kaydı kaydeder. Bot, bir uyumsuzlukla karşılaşana kadar bunu yapmaya devam edecek. 
+Bu durumda, çalışana hangi kaydın kaydedilmesi gerektiğini kontrol edip belirleyebilmesi için bir bildirim gönderir. Bu operatör kısımdır.
+ Mutabakat tamamlandığında bot, gerçekleştirdiği tüm eylemlerin bir özetini sunar. Botun yardımıyla, işin süresi günlerden 
+iki dakikaya düştü ama hepsi bu kadar değil.
+ Kredi yönetimindeki en büyük sorunlardan biri olan kredi temerrüdünü düşünelim.
+ Burada UiPath botunun bir makine öğrenimi modelinin yardımına ihtiyacı var.
+İlk olarak, RPA botu, bir kaynaktan, genellikle bir Excel dosyasından kredi başvurusu verilerini alır. 
+ Daha sonra verileri makine öğrenimi kredisi varsayılan tahmin modeline gönderir. Bu model, her bir başvuru sahibinin geliri 
+ve derinliği önceki varsayılan geçmiş, aynı zamanda medeni durumu veya çocuk sayısı gibi verilerle eğitilir. 
+Bu tür verilere dayanarak model, müşterilerin kredileri nerede geri ödeyecekleri veya ödemeyecekleri konusunda 
+bir tahmin yapabilir. Ardından RPA botu, kredi temerrüt tahmin sonucunu CRM’ye ekler.
+ Son olarak, bot gerçek kredi sonucuna ilişkin verileri gönderebilir ve makine öğrenimi modelini yeniden eğitebilir. 
+Bu Uipath örnekleri, botların çalışanlarla ve diğer AI Teknolojileriyle birlikte çalışabileceğini göstermektedir.
+Çalışanların hoşlanmadığı ilhamsız iş yükünü azaltır ve bankaların temerrüde düşme olasılığını erken aşamada tahmin 
+ederek gerekli tüm önlemleri almasını ve kayıpları en aza indirmesini kolaylaştırır.
+ Ve bunlar, RPA botlarının bankalar için otomatikleştirebileceği görevlerden sadece birkaçı.

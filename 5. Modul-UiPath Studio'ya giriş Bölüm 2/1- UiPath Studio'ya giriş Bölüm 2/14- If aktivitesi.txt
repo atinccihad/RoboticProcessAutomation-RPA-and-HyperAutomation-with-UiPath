@@ -1,0 +1,4 @@
+İf activity 
+ Kontrol akış ifadesi duyduklarında çoğu insanın düşündüğü şeydir. Bir koşul eklenmiş bir ifade ve iki set talimat çıktısı 
+içerir. İfade doğruysa, "then" bölümündeki ilk talimat seti(if bloğu) yürütülür. "else" bölümünden ikincisi, ifade 
+yanlışsa çalıştırılır.

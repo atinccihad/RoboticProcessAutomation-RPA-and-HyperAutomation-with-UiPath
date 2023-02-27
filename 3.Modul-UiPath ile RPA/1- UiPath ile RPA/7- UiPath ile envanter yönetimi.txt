@@ -1,0 +1,18 @@
+UiPath ile envanter yönetimi
+Transkript:
+ Robotik Süreç Otomasyonu RPA ile perakendeciler günlük görevleri ve fatura veya satın alma siparişi işleme 
+veya nakit tahsisi ve çok daha fazlası gibi tüm süreçleri otomatikleştirebilir. Bu konuda pazar liderlerinden 
+biri olan UiPath ile sipariş işleme gibi temel bir görev için RPA kullanımı senaryosuna bakalım.
+ Makine öğrenimi çözümleriyle birleştirilmiş RPA botu bir insan çalışanın müdahalesi olsun veya olmasın gelen tüm satın alma 
+siparişlerini dijitalleştirebilir ve işleyebilir. 
+ Örneğin robot, her bir satın alma siparişinden ilgili tüm verileri herhangi bir formatta tanımlayıp çıkarabilir işleyebilir 
+ve istenilen formatta kaydedebilir. Çalışan onayı gerektirebilecek her şey önceden belirlenebilir.
+ Böylece robot, diğer sipariş işlemleri üzerinde çalışmaya devam ederken çalışanı onaylaması için uyaracaktır.
+ Daha karmaşık başka bir örnek ise, Envanter Yönetimi.
+ Diyelim ki sayacağım ürünlerin stoklarını yönetmesi gereken bir perakendecisiniz: 
+LG TV Nikon kamera Shark elektrikli süpürge ve MegaBoom hoparlör.
+ Tamamen otomatik olan UiPath bot, CRM’nize gider, geçmiş envanter ve satış verilerini yakalar. 
+Ve bunu, her ürün için en uygun envanteri tahmin eden makine öğrenimi modellerine gönderir. Ama son işlem bu değil. 
+Daha sonra bot, eksik olan her ürünün siparişlerini doğrudan gerçekleştirecek ve envanterinizi en iyi duruma getirecektir. 
+Dolayısıyla, RPA Robotları perakendecilerin yeni verimlilik ve üretkenlik düzeylerine ulaşmasına yardımcı olabilir. 
+ Ve bu, RPA’nın perakende şirketleri için neler yapabileceğinin örneklerinden yalnızca birisidir.

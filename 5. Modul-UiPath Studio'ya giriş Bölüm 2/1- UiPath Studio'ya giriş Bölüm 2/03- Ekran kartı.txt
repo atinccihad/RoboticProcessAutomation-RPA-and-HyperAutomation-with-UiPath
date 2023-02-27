@@ -1,0 +1,14 @@
+ Web Scraping, farklı configuration ve technologies kullanılarak ekrandan veri okumak için kullanılır.
+Ekranda görünen verileri ve ayrıca bir açılır menüden seçenekler gibi görünmeyen verileri yakalayabilir.
+ Web Scraping butonuna tıkladıktan sonra şeritten Web Scraping düğmesini seçerek başlayabilir,
+ekrandaki fare imlecini hareket ettirebilir, ve otomatik olarak seçilir.
+ Bu, Web Scraping sihridir, seçilen tüm öğeleri ayrı kullanıcı arabirimi öğeleri olarak kabul edin ve bunlardan veriler çıkarın,
+tek bir öğeye karar verdikten sonra UiPath Studio sizi web scraping sihirbazına götürecektir
+ve sol tarafta sağda yakalanan verileri göreceksiniz.
+ Her biri yerel, metin ve OCR olmak üzere üç seçenek içeren bir açılır menü vardır. Bu üç seçenekten biri farklı bir 
+teknoloji kullanır ve benzersiz avantajlar sağlar. Metin scrap ederken yereli seçmelisiniz. Ve ayrıca konumunu yazı 
+tipi stilini ve rengini de yakalamak isteyebilirsiniz. 
+ Kullanıcı arabirimi nesnesinde veya seçilen ekran alanında tüm görünür metni scrap etmek istediğinizde tam metni seçmelisiniz.
+ OCR, optik karakter tanıma  anlamına gelir.
+ Sanal masaüstlerinden veya diğer iki seçenek tarafından tanınmayan UI öğelerinden veri scrap ederken, 
+web scraping türünü seçtikten sonra, tamamlanan robot UiPath içinde oluşturulacaktır.

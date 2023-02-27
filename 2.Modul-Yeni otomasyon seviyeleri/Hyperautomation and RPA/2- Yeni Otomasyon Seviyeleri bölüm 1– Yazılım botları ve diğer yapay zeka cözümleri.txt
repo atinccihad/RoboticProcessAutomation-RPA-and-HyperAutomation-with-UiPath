@@ -1,0 +1,33 @@
+Yeni Otomasyon Seviyeleri bölüm 1– Yazılım botları ve diğer yapay zeka çözümleri
+Transkript:
+ AI aracılığıyla yapılan otomasyonun önemli bir ticari faydası vardır 
+ve gerçekten de AI çözümleri, otomasyonun tamamen yeni seviyelerine ulaşılmasına yardımcı olur.
+ Böylece de verimliliğin ve üretkenliğin yeni seviyelerine ulaşılabilir.
+ Modern AI çözümlerinin kombinasyonları benzeri görülmemiş bir ölçekte otomasyonu sağlar.
+ Bu durum, analistler ve uzmanlar tarafından hiper-otomasyon olarak adlandırılır.
+ Peki otomasyonu bu kadar etkili ve büyüleyici yapan şey nedir?
+ Açıkçası manuel ya da kısmen manuel süreçler çoğu zaman kayda değer ölçüde yavaş ve pahalıdır.
+ Çünkü çok fazla insan emeğine ihtiyaç duyarlar.
+ Üstüne üstlük insanlar operasyonel risklere yol açan hatalar da yapabilir.
+ Ayrıca insanların performanslarında belirli doğal dalgalanmalar da vardır.
+ Kısmi otomasyonsa bunun geliştirilmesine yardımcı olur.
+ Ancak kaçınılabilir her arayüz Kısmi otomasyonsa bunun geliştirilmesine yardımcı olur.
+ Ancak kaçınılabilir her arayüz her medya kesintisi hala bir verimsizlik, hata ve risk kaynağıdır.
+ Diğer taraftan, baştan sona tamamen otomatik olan bir süreç pratikte çoğu zaman daha verimli, hızlı ve iyidir.
+ Geleneksel BT teknolojileri süreç otomasyonunda çok büyük ilerlemeler sağlanmasına yardımcı olmuştur.
+ Ancak çoğu zaman bu ilerlemeler, iş süreçlerini baştan sona otomatikleştirmekte yeterli olmaz.
+ Ayrıca şüphesiz böyle bir işlemin fiyatı da mantıklı olmaz.
+ Diğer taraftaysa modern AI teknolojileri bu limitleri kırıyor.
+ Modern otomasyon çözümleri jenerasyonundan birisi olan Robotik Süreç Otomasyonu, 
+RPA mesela belirli ofis görevlerinin ve hatta giriş işlemlerinin geleneksel BT teknolojilerine göre 
+daha kolay, daha ucuz ve daha hızlı otomatikleştirilmesini mümkün kılıyor.
+ RPA teknolojilerinin kullanımı daha kolaydır.
+ Çünkü çok büyük sunucularda çalışmaktansa, basit bir bilgisayarda bile çalışabilir bu yüzden de sade çözümlerdir.
+ Bu türde çözümlerin yardımıyla geliştirilen ve eğitilen yazılım botları,
+hali hazırda bulunan BT sistemlerinde karışık teknik arayüzler gerektirmez.
+ Bu yazılım botlarının diğer insan çalışanlar gibi çalışabilmeleri için sadece kullanıcı adı ve şifre gereklidir. Ayrıca bu tarz yazılım botlarını oluşturmak kolaydır.
+ Çoğu zaman gerçek programlama veya kodlama bilgisi bile gerektirmez ve çok daha sezgiseldir.
+ Bu tür karakteristik özellikler yazılım botlarının çok hızlı ve verimli kullanılmasına olanak sağlar.
+ Aynı zamanda bu yalın yaklaşım büyük ve hantal BT sistemlerine sahip geleneksel otomasyonun 
+ekonomik olarak uygulanabilir olmayacağı görevleri ve süreçlerini otomatikleştirmek için de kullanılabilir.
+ İşte bu yüzden otomasyon bugünlerde yeni bakış açıları getirmektedir.

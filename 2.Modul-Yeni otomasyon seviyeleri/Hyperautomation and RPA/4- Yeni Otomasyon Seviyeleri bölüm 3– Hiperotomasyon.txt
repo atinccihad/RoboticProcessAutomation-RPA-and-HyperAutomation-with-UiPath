@@ -1,0 +1,44 @@
+Yeni Otomasyon Seviyeleri bölüm 3 – Hiperotomasyon
+
+Transkript
+ Otomasyon için daha ileri fırsatların ortaya çıkması Robotik Süreç Otomasyonu’nun (RPA) 
+özelleştirilmiş bilişsel yapay zekâ çözümleriyle birleştirilmesiyle olur. Böylece;
+hem basit kurallara dayanan ve kendini tekrar eden görevler hem de karar verme elementleriyle entegre halde 
+olan karmaşık süreçler otomatikleştirilebilir.
+ Bir şirketin servis merkezinden bir örnek inceleyelim: 
+Bu şirket hem telefon hem de mail üzerinden günde binlerce müşteri talebi alıyor. 
+Bir yazılım botu bu her gün gelen mailleri işlemek için kullanılıyor. 
+Bu bot, mailleri gelişmiş bir bilişsel yapay zekâ aracına gönderiyor. 
+Anlamsal analizde özelleşen bu araç mesajların önemini ve içeriğini anlamak için kullanılan üslubu kabaca analiz ediyor.
+ Örnek vermek gerekirse bu şekilde müşterinin isteğinin aciliyet seviyesini veya müşterinin duygusal 
+ve hatta kızgın olup olmadığını tespit edebiliyor. Bu yöntemle bilişsel yapay zekâ çözümü, alınan mailin 
+kritik bir müşteri sorunu olup olmadığını saptar ve bu bilgileri yazılım botuna geri iletir.
+ Bot ise veritabanını tarayarak bahsi geçen müşteriyle ilgilenen sorumluyu bulur ve ona kritik maili, 
+hemen ilgilenilmesi gerekildiği mesajını ekleyerek iletir. Bot aynı zamanda diğer mailleri de işlemekte, 
+fakat bunu tamamen farklı bir standartla yapmakta. Bu daha önceden mümkün olmayan , tamamen canlı bir otomasyon seviyesidir. 
+Bütünsel akıllı otomasyona yönelik bu bütüncül yaklaşım, basit çözümlerden daha ileri bir niteliğe sahiptir. 
+Örnek olarak, izole edilmiş Robotik Süreç Otomasyonu (RPA) ile birbirinden farklı robotik ve yapay zekâ çözümleri ile 
+en karmaşık süreçler bile baştan sona otomatikleştirilebilir. Ayrıca ofis dünyasının dışında da hiperotomasyon gelişmeye 
+devam etmekte gittikçe daha fazla makine ve fiziksel objeler sensör ve çiplerle donatılmakta.
+ Nesnelerin Interneti (IoT) bütün fiziksel objeleri dijitalleşmiş dünyamızla kolayca birleştirir. 
+Bu otomasyon açısından daha da fazla olasılık yaratır. Terk edilmiş fabrikaları, depoları, mağazaları 
+ve terk edilmiş lojistik zincirleri hayal edin! Bunların hepsi gitgide daha büyük bir gerçek haline gelmekte. 
+Yapay zekâ çözümlerinin akıllı kombinasyonları sonucunda, pratikte bütün insan davranış ve düşüncelerinin yerini makineler alabilir.
+ Aynı zamanda diğer modern teknolojiler de şirketlerin otomasyon çabalarını destekleme amacıyla kullanılabilir. Örnek olarak, 
+süreç modellemesi ve süreç madenciliği gibi teknolojiler bir şirketin süreç akışını tamamen şeffaf hale getirmemize 
+yardımcı olurlar. Buna yapılan alım-satım işlemlerinin sayısı, farklı süreç varyasyonları ve süreç istisnaları da dahildir.
+ Bu şeffaf sonuçlar sayesinde, otomasyon potansiyeli olan görevler ve süreçler kolayca saptanabilir. Bütün bu durum, 
+öbür türlü fazlasıyla çaba gerektirecek manuel süreç analizi ihtiyacının yerini alan teknoloji tarafından 
+kolayca desteklenmektedir. Bu durum, otomasyon projelerinin anahatlarını yeni fikirler katarak belirlemek 
+ve onları verimli bir şekilde önceliklendirmek için harika bir fırsattır.
+ Bütün bu fikirler ve yeni olanaklar, hiperotomasyon fikrinin arkasında süreç optimizasyonu konusunda tamamen yepyeni 
+örneklerdir. Bu bizim işlem maliyetlerini ve hata oranlarını azaltmamıza, belirgin bir şekilde kaliteyi arttırmamıza, 
+riskleri büyük ölçüde azaltmamıza olanak sağlamaktadır. ve bunların da ötesinde iş yapma zamanını belirgin bir şekilde 
+kısaltmayı sağlar.
+ İşletme sürecinin pazarlama ve satış, üretim, lojistik, tedarik, finans, İK, operasyon ve BT ve benzeri olmak üzere 
+hemen hemen bütün kısımlarında bir organizasyon olarak, hiperotomasyon sayesinde kendimizin daha zinde bir versiyonu haline gelebiliriz. 
+Hatta aynı zamanda çalışanlarımızın iş yerini daha heyecan verici bir hale de getirebiliriz. 
+İnsanların daha fazla değer yaratan işlerle ilgilenmelerini, bu sayede tam anlamıyla yaratıcı potensiyellerine ulaşmalarını 
+sağlayabiliriz.
+ Sonuç olarak, daha kapsamlı bir otomasyondan kaçmanın yolu yoktur.
+ Hiperotomasyon: rekabetçi olmak veya rekabetçi kalmak isteyen her şirket ve organizasyon için bir gereklilik.

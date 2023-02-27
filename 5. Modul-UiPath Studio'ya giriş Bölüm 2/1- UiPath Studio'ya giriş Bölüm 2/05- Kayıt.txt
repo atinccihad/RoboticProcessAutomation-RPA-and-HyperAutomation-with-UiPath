@@ -1,0 +1,7 @@
+ UiPath'de Recording seçeneğini seçerek kullanıcı eylemlerini kaydedebiliriz. Recording bize beş seçenek sunar,
+- Basic
+- Desktop
+- Web
+- Image
+- Yerel Citrix 
+ Kodunuzda hangi tür kayıt kullanacağınızı tahmin etmelisiniz.

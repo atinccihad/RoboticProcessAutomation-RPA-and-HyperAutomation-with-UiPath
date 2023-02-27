@@ -1,0 +1,28 @@
+UiPath’e giriş
+Transkript:
+ Hayatınızda hiç Robotik Süreç Otomasyonu’nun ya da RSO’nun sizin için neler yapabileceğini merak ettiniz mi?
+Kısaca bahsetmek gerekirse RSO, bir işin maliyetini büyük ölçüde azaltırken 
+hem işlemlerin hem de işi yaparkenki hızın iyileştirilmesine yardımcı olarak rekabet avantajı sağlar.
+ Peki RSO nasıl çalışır?
+Bu videoda sizlere UIPath’in fatura kesmek ile ilgili olan süreci uçtan uca nasıl idare ettiğini ve kolaylaştırdığını göstereceğiz. 
+Size birazdan göstereceğimiz robot faturaların PDF formatında kaydedildiği bir klasörü takip edebilir o klasördeki faturaları 
+tek tek okuyabilir faturaların içerisinden önemli bilgileri alabilir SAP’yi açabilir SPA’deki faturanın detaylarının 
+doldurabilir ve kullanıcılara e-posta bildirimleri gönderebilir.
+ Burada unutmamalısınız ki robot bir klasörü takip etme veya e-posta adresini kontrol etme gibi faturayla ilgili eylemlerin 
+çoğunu arka planda yapmaktadır. Şimdi nasıl çalıştığına bir göz atalım.
+ Ekranda görmüş olduğunuz sistem, önce üç faturanın saklandığı bir klasörü izler ve gereken tüm bilgileri toplayarak 
+tek tek kaydedilmesini sağlar. Daha sonra test uzmanından gönderi bildiriminin iletileceği e-posta adresini girmesini ister. 
+Bunun yanında SAP’nin açık olup olmadığını görebilmek için temel kontrolleri yapar ve eğer açık değilse kendi başına çalıştırır.
+ Burada ise gördüğünüz üzere sistemimiz SAP’de kimlik bilgilerini kullanarak oturum açtıktan sonra faturaları tek tek 
+işlemeye başlar. Satıcı kodu fatura tarihi, fatura numarası, fatura tutarı, fatura açıklaması ve GL hesabı gibi verileri 
+doldurduğunu görebiliriz. Son olarak da “ödeme süresi” verisini doldurarak, doldurma işlemini bitirir. Bundan sonra 
+kalan iki faturayı tahsis edilen şirketin koduna kaydeder. Her bir fatura başarıyla kaydedildikten sonra SAP kayıt 
+numarasını içeren bir e-posta robot tarafından otomatik olarak gönderilir. Robot arka planda, faturadaki KDV’nin 
+veritabanımızdaki KDV ile eşleşip eşleşmediğini kontrol eder ve eğer eşleşirse bunu doğrulayarak otomatik olarak kaydeder.
+ Eşleşmediği durumda robot bu faturayı beklemeye alır ve faturalardan sorumlu kişiye bu farkı vurgulayan ve faturanın 
+gönderileceğini mi, iptal mi edileceğini yoksa satıcıya geri mi yollanacağını soran bir e-posta gönderir.
+ Robotun göndermiş olduğu e-postada, faturanın tüm detaylarını faturalardan sorumlu kişi görebilir. Bu yüzden KDV farkı olan 
+bir fatura için mesaja “EVET” ile cevap verelim. Son olarak, robot, arka planda e-posta adresini SPA’ye uygun işlem kodunu 
+kullanarak kontrol edecek ve sonrasında faturayı gönderecektir. Ve işte bu kadar.
+ Robot sonunda üç faturayı da SAP’ye göndermeyi başardı! Daha fazlasını öğrenmek ister misin?
+Sana yardımcı olmaktan mutluluk duyarız. Bizimle buradan iletişime geçebilirsin.

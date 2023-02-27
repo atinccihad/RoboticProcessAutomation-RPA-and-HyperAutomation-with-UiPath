@@ -1,0 +1,14 @@
+UiPath Studio'da basit bir döngü nasıl çalıştırılır?
+ Process bölümünden sürece isim verip başlıyoruz. Bir not defterinde beş kez tekrar yazacak, bir iş akışı oluşturmak istiyoruz.
+Önce tasarımcı paneline bir döngü mekanizmasını sürükleyip bırakalım. Snippet'lere gidelim Snippet'lerde, kullanıma hazır kodlar mevcuttur.
+ Tasarımcı paneline tekrar için sayaçı sürükleyeceğiz. Bu, bir döngü için kod oluşturur. Şimdi tasarımcı panelinde mevcut olan 
+tüm döngü yapısına sahibiz.
+ Bu döngüde, döngüyü kaç kez çalıştırmak istediğimizi, yani tekrar sayısını tanımlayabiliriz. Diyelim ki onu 5 kere çalıştırmak istiyorsunuz. 
+Eylem şimdibu sıraya göre ilerliyor, şimdi bir not defteri açacağız, kaydediciye tıklayın ve temeli seçin. Bu kayıt cihazı sihirbazını
+açacaktır, uygulamayı başlat düğmesine tıklayın. Şimdi uygulamayı başlat seçeneğini seçin ve not defterinde herhangi bir yere tıklayın,
+bir açılır pencere açılacak "OK"'a tıklayın, "Save and Exit"'a tıkladığınızda kod otomatik olarak UiPath tarafından oluşturulacaktır.
+ Yani bu temel kayıt, bir not defteri açacaktır. Bunu Sequence içine taşıyacağız. Şimdi tekrar Recording'e tıklayacağız ve Basic seçimini yapacağız
+Type bölümünü seçip kayıt sihirbazında basic'i seçeceğiz, tıklama tipini seçeceğiz ve açılan pop-up'ta not defterine gidin ve Repeat tuşuna basın, 
+şimdi "Save & Exit"'a tıklayın ve tekrar çıkın.
+ Sonrasında açılmış olan not defteri çerçevesini döngü bulunan çerçevenin üst bölümüne alıyoruz. 
+Debug butona tıklayıp altında bulunan Run bölümünü seçiyoruz. Ve konum belirttiğimiz alana kelimemizi 5 kez yazdığını görüyoruz.

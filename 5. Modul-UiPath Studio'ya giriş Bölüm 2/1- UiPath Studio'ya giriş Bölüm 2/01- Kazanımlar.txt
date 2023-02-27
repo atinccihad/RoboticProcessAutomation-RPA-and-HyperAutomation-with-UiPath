@@ -1,0 +1,4 @@
+UiPath'i kullanarak veriler ile ilgili değişiklikler yapabiliriz
+- UiPath'ta mevcut olan farklı kayıt türlerinin,
+ while gibi UiPath'daki en önemli döngü türlerinin ve
+ if gibi koşul ifadeleri ile kullanabiliriz.

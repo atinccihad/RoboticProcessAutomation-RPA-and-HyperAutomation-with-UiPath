@@ -1,0 +1,78 @@
+RPA şirketleri ve teknolojiler
+
+Transkript:
+ Önde gelen teknoloji analistlerine göre robotik süreç otomasyonu RPA şu anda en hızlı büyüyen yazılım alt segmentini 
+temsil ediyor. RPA pazarı hala büyüme döngüsünün başlangıcında ve dolayısıyla daha yerleşik ve olgun yazılım segmentlerine 
+kıyasla nispeten küçük.
+ Buna rağmen, yatırımcıların yanı sıra yazılım şirketlerinden de giderek artan bir ilgi gördü. RPA Sağlayıcıları ve 
+Teknolojileri RPA satıcılarının pazar manzarasını analiz ederken, üç farklı RPA çözüm sağlayıcısı kategorisi sayabiliriz.
+ İlk olarak, Yatay RPA Sağlayıcıları. Bu kategorideki sağlayıcılar, tamamen RPA yazılım ürünleri geliştirmeye odaklanan yazılım 
+şirketlerini temsil eder. Bu yazılım ürünleri daha sonra çeşitli şirket ve kurumlarda süreç otomasyonunu gerçekleştirmek için 
+uygulanmakta ve devreye sokulmaktadır.
+ Bu yatay RPA sağlayıcıları kategorisinde RPA dünyasının büyük üçlüsü olarak bilinen şirketleri görebiliriz: 
+- UiPath 
+- Automation Anywhere 
+- Blue Prism 
+ Bu üç şirket, en başarılı RPA öncüleridir ve hep birlikte en yüksek pazar payına sahiptirler.
+ Şu anda, ortak şirket değerleri 50 milyar doları aşıyor ve üç haneli milyar dolarlık değerlere doğru sürekli yükseliyor. 
+Bu üç büyük firmanın dışında, bir dizi başka satıcı da bu yatay RPA sağlayıcıları kategorisine giriyor. Hepsinin ortak noktası, 
+aynı anda birden çok sektörde birden çok iş fonksiyonunda akıllı otomasyona hizmet edecek ürünler geliştirmeleridir. 
+Bu kategoriye yatay RPA denmesinin nedeni de budur.
+ İkincisi, uzman RPA sağlayıcıları.
+Uzmanlaşmış RPA sağlayıcıları kendilerini daha odaklı bir şekilde konumlandırır. 
+ Ya belirli bir sektöre ya da belirli bir iş fonksiyonuna odaklanırlar. 
+Örneğin, tamamen bankacılık süreçlerinin otomasyonuna odaklanan oyuncular var. Diğer uzman oyuncular yalnızca 
+belirli iş alanlarına odaklanır. Bu finans, İK, belge işleme veya başka bir şey olabilir.
+ Uzman sağlayıcıların yazılım ürünleri o kadar uzmanlaşmıştır ki temel etki alanları için yalnızca minimum düzeyde 
+müşteriye özel özelleştirmeye ihtiyaç duyabilirler. Bu açıkca bir avantajdır. Öte yandan, bu tür yazılım çözümlerinin 
+kendi çekirdek alanı dışındaki uygulanabilirliği genellikle oldukça sınırlı olacaktır ki bu en büyük dezavantajı temsil etmektedir.
+ Üçüncüsü, Yerleşik BT Oyuncuları. 
+Yerleşik BT Oyuncuları, başarılı teknoloji şirketleridir. Örneğin, 
+- Microsoft
+- SAP 
+- Oracle 
+gibi büyük yazılım firmaları.
+ Bu tür büyük yazılım oyuncuları, otomasyon yeteneklerini genişletmek için kendi RPA ürünlerini de geliştirmeye başladılar.
+Bu oyuncular halihazırda önemli pazar paylarına sahip mevcut bir müşteri tabanına geniş kapsamlı bir yazılım çözümleri paketi 
+sunduğundan tamamlayıcı RPA ürünlerinin mevcut ürün hatları ve müşteri tabanları ile entegrasyonu oldukça mantıklı, 
+kolay ve güçlü görünmektedir.
+ Yatay ve uzmanlaşmış RPA oyuncularının yanı sıra görevdeki BT oyuncuları da birbirleriyle rekabet eder 
+ve bazen bu dinamik olarak büyüyen pazar segmentlerinde işbirliği yapar. Bu piyasa oyuncularının özel ürün ofisine 
+daha yakından bakarsak çok çeşitli uzmanlıklar, çok özel güçlü yönler ve ayrıca çok özel zayıflıklar bulabiliriz.
+ Bazı oyuncular, katılımsız botlar söz konusu olduğunda özellikle güçlüdür. Katılan botlar söz konusu olduğunda diğerleri 
+daha güçlüdür. Bazı sağlayıcılar daha çok botların kodlanmasını ve programlanmasını gerektiren ürünlere odaklanır.
+ Diğer bazı oyuncular ise daha çok grafik kullanıcı arayüzleri, kayıt ve hatta daha gelişmiş, kendi kendine öğrenen botlarla 
+çalışan, kodlamayan ürünlere odaklanır.
+ Genel olarak, ileriye baktığımızda bazı önemli eğilimleri görüyoruz. Kodsuz RPA’ya doğru açık bir eğilim var.
+RPA programlama, zaten karmaşık programlamadan daha kolay olsa da yine de belirli programlama becerilerini öğrenmek için 
+çaba sarf etmek gerekir. Ve bu tür teknik işler konusunda belli bir yeteneğe ve ilgiye sahip olmanız gerekiyor.
+ Bu, bir şirket ortamında çalışanların %10’undan daha azının uzun vadede bile bot oluşturmaya istekli ve yeterli olacağı 
+anlamına gelir. Bu nedenle, RPA programlamasını basitleştirmek RPA’yı demokratikleştirmeye ve kullanımını önemli ölçüde 
+genişletmeye açıkça yardımcı olacaktır.
+ Bu nedenle, giderek daha fazla RPA oyuncusu ve genç girişimler hiçbir programlama becerisi gerektirmeyen kodsuz çözümler 
+oluşturuyorlar. RPA’yı demokratikleştirmek, tüm iş ve finans topluluğunu sonsuza dek güçlendiren ve değiştiren Excel’in 
+piyasaya sürülmesi kadar güçlü olabilir. RPA’nın Excel’den çok daha geniş bir uygulama alanı olduğu göz önüne alındığında 
+gerçekten beyaz yakalı işte devrim yaratma potansiyeline sahiptir.
+ Diğer bir önemli eğilim ise kendi kendine öğrenen RPA’ya yönelik. Geleneksel olarak, RPA geliştiricilerinin programladıkları 
+süreci anlamaları gerekir. Bununla birlikte çoğu şirket, gerekli bir ön koşul olan erişilebilir işlem bilgilerinden yoksundur.
+ İşte tam da bu yüzden önde gelen RPA satıcıları ve genç girişim şirketleri bu sorunu çözmeye çalışmakta. Yine de bu, hâlâ çok 
+olgunlaşmamış ve daha başlangıç aşamasında olan bir alan.
+ Üçüncü önemli genel RPA trendi, RPA botlarını daha akıllı hale getirmek için bilişsel otomasyona yöneliktir. 
+Bilişsel otomasyon, RPA’nın süreç otomasyon kapsamını genişletmek için makine öğrenimi gibi daha gelişmiş yapay zekâ 
+yeteneklerinden yararlanmasını sağlar. Genel RPA pazar ortamında farklı uzmanlıkları ve yazılım çözümleri olan RPA ürün 
+şirketlerinin yanı sıra danışmanlık ve sistem entegrasyonu şirketleri gibi artan sayıda profesyonel hizmet firmasını da 
+gözlemliyoruz. Bu tür hizmet şirketleri, RPA kullanım senaryolarınının tanımlanmasıyla gerekli süreç analizi ve 
+değerlendirmesinden RPA botlarının uygulanması, bakımı ve desteğine kadar müşterilere bu RPA yolcuğunda yardımcı olur ve 
+başarılı olmalarını destekler. Danışmanlar ve sistem entegratörleri genellikle araçtan bağımsızdır ve çoğu durumda birden 
+çok RPA satıcısıyla ortaklıkları vardır.
+ Genel olarak, RPA danışmanlık ve sistem entegrasyonu firmalarının ortaya çıkışı ve evrimi ERP veya daha sonra hizmet olarak 
+yazılım ürünleri pazarında oraya çıkan piyasa oyuncularının evrimine çok benzer olarak görülebilir.
+ Örneğin; Salesforce.com
+ Özetlemek gerekirse, etkili ve canlı bir RPA ekosisteminin tüm bu RPA oyuncu kategorilerini içermesi gerektiğini söyleyebiliriz: 
+Yatay ve uzmanlaşmış RPA şirketleri 
+Genişleyen RPA yeteneklerine sahip görevli BT oyuncuları 
+RPA danışmanlık firmaları 
+RPA sistem entegratörleri ve hepsinden önemlisi, 
+bu pazarların yardımıyla iş süreçlerini otomatikleştirme konusunda istekli şirketler.
+ Tüm zamanların en heyecan verici ve dinamik olarak büyüyen teknoloji segmentlerinden biri olan Robotik Süreç Otomasyonu (RPA) 
+farklı pazar türleri için harika yeni fırsatlar yaratıyor.
