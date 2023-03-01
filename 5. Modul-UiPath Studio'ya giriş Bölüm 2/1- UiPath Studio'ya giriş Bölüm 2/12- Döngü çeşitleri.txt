@@ -2,7 +2,6 @@
 - foreach
 - while
 - do while
- 
  while döngüsü, döngüye girmeden başlangıçtaki koşulu kontrol eder, sonra içerilen etkinlikleri yürütür.
  do while döngüsü, her ihtimalde bir kez çalışır ve sonrasında koşulu kontrol edip çalışmaya devam eder veya çalışmayı durdurur.
  For each, koşul doğru ise listelerin veri kümelerinin öğeleri arasında yineleme yapmanıza izin verir. Akış ifadeleri tek tür değildir.
