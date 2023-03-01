@@ -4,7 +4,6 @@ Transkript:
 Kısaca bahsetmek gerekirse RSO, bir işin maliyetini büyük ölçüde azaltırken 
 hem işlemlerin hem de işi yaparkenki hızın iyileştirilmesine yardımcı olarak rekabet avantajı sağlar.
  Peki RSO nasıl çalışır?
-Bu videoda sizlere UIPath’in fatura kesmek ile ilgili olan süreci uçtan uca nasıl idare ettiğini ve kolaylaştırdığını göstereceğiz. 
 Size birazdan göstereceğimiz robot faturaların PDF formatında kaydedildiği bir klasörü takip edebilir o klasördeki faturaları 
 tek tek okuyabilir faturaların içerisinden önemli bilgileri alabilir SAP’yi açabilir SPA’deki faturanın detaylarının 
 doldurabilir ve kullanıcılara e-posta bildirimleri gönderebilir.
