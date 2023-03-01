@@ -17,7 +17,7 @@ kritik bir müşteri sorunu olup olmadığını saptar ve bu bilgileri yazılım
 hemen ilgilenilmesi gerekildiği mesajını ekleyerek iletir. Bot aynı zamanda diğer mailleri de işlemekte, 
 fakat bunu tamamen farklı bir standartla yapmakta. Bu daha önceden mümkün olmayan , tamamen canlı bir otomasyon seviyesidir. 
 Bütünsel akıllı otomasyona yönelik bu bütüncül yaklaşım, basit çözümlerden daha ileri bir niteliğe sahiptir. 
-Örnek olarak, izole edilmiş Robotik Süreç Otomasyonu (RPA) ile birbirinden farklı robotik ve yapay zekâ çözümleri ile 
+ Örnek olarak, izole edilmiş Robotik Süreç Otomasyonu (RPA) ile birbirinden farklı robotik ve yapay zekâ çözümleri ile 
 en karmaşık süreçler bile baştan sona otomatikleştirilebilir. Ayrıca ofis dünyasının dışında da hiperotomasyon gelişmeye 
 devam etmekte gittikçe daha fazla makine ve fiziksel objeler sensör ve çiplerle donatılmakta.
  Nesnelerin Interneti (IoT) bütün fiziksel objeleri dijitalleşmiş dünyamızla kolayca birleştirir. 
