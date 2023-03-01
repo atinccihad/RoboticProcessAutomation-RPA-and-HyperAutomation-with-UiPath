@@ -1,7 +1,6 @@
 Hiperotomasyon ve RPA
 Transkript:
- Hiperotomasyon ve RPA tamamen yeni nesil, 
-modern robotik ve otomasyon teknolojileri şirketlerimizde, 
+ Hiperotomasyon ve RPA tamamen yeni nesil, modern robotik ve otomasyon teknolojileri şirketlerimizde, 
 kurumlarımızda, 
 ekonomimizde ve toplumumuzda daha önce benzeri görülmemiş bir ölçekte manuel görevlerin otomasyonunu sağlıyor.
  Sadece bilişsel AI çözümleri ile birleştirilmiş yazılım botları, 
