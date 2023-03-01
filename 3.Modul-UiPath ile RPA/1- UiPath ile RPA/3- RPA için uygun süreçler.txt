@@ -2,9 +2,9 @@ RPA için uygun süreçler
  Bir sürecin otomasyon için iyi bir aday olması için, belirli özelliklere sahip olması gerekir. 
 Basit yapılandırılmış ve adım adım talimatlarla kolayca tanımlanabilen süreçler, RPA’ miz için en uygun olanıdır. 
  Şimdi her özelliği ayrıntılı olarak tartışalım.
--	Tekrarlayanlar.
+-  Tekrarlayanlar.
  Tekrarlayan süreçler iyi adaylardır. Otomasyon bu süreçlerin yürütülmesini hızlandırarak üretkenliği arttırır.  
--	Kural bazlılar.
+-  Kural bazlılar.
  Belirli bir süreci ele alma şekli her yinelemede önemli değişikliklere uğramazsa, RPA robotlarımız tarafından izlenebilecek bir dizi kurala kolayca dönüştürülebilir. Kural tabanlı bir süreç, otomasyon için iyi bir adaydır.
--	Yapılandırılmışlar.
+-  Yapılandırılmışlar.
  Sürecin tüm yönleri iyi tanımlanmış veya yapılandırılmıştır. Evetse, süreç otomasyonunun gerçekleştirilmesi kolaydır.
