@@ -1,5 +1,4 @@
 RPA şirketleri ve teknolojiler
-
 Transkript:
  Önde gelen teknoloji analistlerine göre robotik süreç otomasyonu RPA şu anda en hızlı büyüyen yazılım alt segmentini 
 temsil ediyor. RPA pazarı hala büyüme döngüsünün başlangıcında ve dolayısıyla daha yerleşik ve olgun yazılım segmentlerine 
