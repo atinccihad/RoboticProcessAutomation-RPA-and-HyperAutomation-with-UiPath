@@ -5,4 +5,4 @@ oluşturmak için karmaşık iş süreçleri  oluşturmanıza olanak tanır. Act
 New bölümüne tıklayıp ardından akış şemasına tıklayabilirsiniz.
 Bir akış şemasını ne zaman kullanırsınız?
  Akış çizelgeleri, bir bot tasarlanırken ve yürütülürken kontrol akışını veya mantığı tasvir etmenin 
-zorlayıcı bir yolunu sundukları için mantığın görünür olması ve kolayca anlaşılması gerektiğinde en iyi şekilde kullanılabilir.
+zorlayıcı bir yolunu sundukları için mantığın görünür olması ve kolayca anlasılması gerektiğinde en iyi şekilde kullanılabilir.
