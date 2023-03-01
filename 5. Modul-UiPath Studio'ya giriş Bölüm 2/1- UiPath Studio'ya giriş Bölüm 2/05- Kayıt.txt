@@ -4,4 +4,4 @@
 - Web
 - Image
 - Yerel Citrix 
- Kodunuzda hangi tür kayıt kullanacağınızı tahmin etmelisiniz.
+Kodunuzda hangi tür kayıt kullanacağınızı tahmin etmelisiniz.
