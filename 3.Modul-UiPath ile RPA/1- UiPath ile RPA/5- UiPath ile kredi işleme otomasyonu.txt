@@ -24,5 +24,5 @@ bir tahmin yapabilir. Ardından RPA botu, kredi temerrüt tahmin sonucunu CRM’
  Son olarak, bot gerçek kredi sonucuna ilişkin verileri gönderebilir ve makine öğrenimi modelini yeniden eğitebilir. 
 Bu Uipath örnekleri, botların çalışanlarla ve diğer AI Teknolojileriyle birlikte çalışabileceğini göstermektedir.
 Çalışanların hoşlanmadığı ilhamsız iş yükünü azaltır ve bankaların temerrüde düşme olasılığını erken aşamada tahmin 
-ederek gerekli tüm önlemleri almasını ve kayıpları en aza indirmesini kolaylaştırır.
- Ve bunlar, RPA botlarının bankalar için otomatikleştirebileceği görevlerden sadece birkaçı.
+ederek gerekli tüm önlemleri almasını ve kayıpları en aza indirmesini kolaylaştırır. Ve bunlar, 
+RPA botlarının bankalar için otomatikleştirebileceği görevlerden sadece birkaçı.
