@@ -11,4 +11,4 @@ bir açılır pencere açılacak "OK"'a tıklayın, "Save and Exit"'a tıkladı�
 Type bölümünü seçip kayıt sihirbazında basic'i seçeceğiz, tıklama tipini seçeceğiz ve açılan pop-up'ta not defterine gidin ve Repeat tuşuna basın, 
 şimdi "Save & Exit"'a tıklayın ve tekrar çıkın.
  Sonrasında açılmış olan not defteri çerçevesini döngü bulunan çerçevenin üst bölümüne alıyoruz. 
-Debug butona tıklayıp altında bulunan Run bölümünü seçiyoruz. Ve konum belirttiğimiz alana kelimemizi 5 kez yazdığını görüyoruz.
+Debug butona tıklayıp altında bulunan Run bölümünü seçiyoruz. Ve konum belirttigimiz alana kelimemizi 5 kez yazdığını görüyoruz.
