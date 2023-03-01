@@ -1,4 +1,3 @@
  Nesting, karmaşık iş akışları oluştururken çok önemlidir, programın mantıksal bir bölümüdür 
 ve yeniden kullanım yeteneğini teşvik eder. Akış şemalarını ve dizileri her şekilde yerleştirmek teknik olarak mümkün olsa da.
- Sürdürülebilir tek kombinasyon, programın genel mantığını temsil eden bir akış şeması kullanmak ve içerideki farklı parçalar 
-için dizileri kullanmaktır.
+ Sürdürülebilir tek kombinasyon, programın genel mantığını temsil eden bir akış şeması kullanmak ve içerideki farklı parçalar için dizileri kullanmaktır.
