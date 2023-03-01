@@ -1,5 +1,4 @@
 RPA türleri ve kullanım alanları
-
 Transkript:
  Robotik Süreç Otomasyonu olarak bildiğimiz RPA büyük bir mega trend,
 çok büyük bir şey olma yolunda ilerleyen yeni bir alandır.
