@@ -1,6 +1,6 @@
 UiPath ile talep işleme otomasyonu
 Transkript:
- Robotik Süreç Otomasyonu (RPA) ile şirketleri, zaman alan ve tekrarlayan görevleri otomatikleştirebilir. 
+ Robotik Süreç Otomasyonu(RPA) ile şirketleri, zaman alan ve tekrarlayan görevleri otomatikleştirebilir. 
 Böylece sigorta şirketleri verimliliği ve üretkenliği arttırabilir. Sigorta taleplerini işlemek genelde çokça tekrarlayan 
 süreçler içerir.
  Her biri manuel olarak yapılan bu tür binlerce işlem sigorta acentelerine kişisel hizmet sağlamak için daha az zaman bırakır.
