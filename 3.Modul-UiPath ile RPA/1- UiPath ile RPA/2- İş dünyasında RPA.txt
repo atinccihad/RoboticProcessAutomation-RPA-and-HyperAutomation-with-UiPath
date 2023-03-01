@@ -1,15 +1,15 @@
  İş dünyasında RPA
--	1. Bir bordro işleme ve Payroll sistemi kuruluş genelinde çalışan verilerin tutarlılığını doğrular. 
+-   1. Bir bordro işleme ve Payroll sistemi kuruluş genelinde çalışan verilerin tutarlılığını doğrular. 
 Yeni ve mevcut çalışanlar için ikramiye ve kesintileri kaydeder, maaş çeki hesaplamalarını otomatikleştirir 
 ve müşteri bilgi güncellemeleri faaliyetlerinin kural tabanlı ve tekrarlayan yapısı ile müşteri bilgi güncellemelerine yönelik tazminatları otomatikleştirir.
--	2. Otomatik olarak önceden yapılandırılmış bir iş akışı oluşturulabilir. Güncellemeler mevcut olduğunda, 
+-   2. Otomatik olarak önceden yapılandırılmış bir iş akışı oluşturulabilir. Güncellemeler mevcut olduğunda, 
 robotlar ayrıca yeni müşterilere ve kuruluşa muhasebe mutabakatı, bildirim e-postaları gönderecek şekilde yapılandırılabilir.
--	3. Robotlar banka ekstreleri veya faturalar gibi çeşitli dokümantasyon kaynaklarından kolayca veri alabilir, 
+-   3. Robotlar banka ekstreleri veya faturalar gibi çeşitli dokümantasyon kaynaklarından kolayca veri alabilir, 
 yazılım robotları ayrıca sipariş uyumluluğunu ve fatura işleme için teslimatları sağlayan satın alma emri karmaşıklıklarını çözebilir. 
--	4. RPA, kağıt üzerinde veya mevcut olması fark etmeksizin faturaları işlemek için kullanılabilir. Elektronik olarak 
+-   4. RPA, kağıt üzerinde veya mevcut olması fark etmeksizin faturaları işlemek için kullanılabilir. Elektronik olarak 
 veri girişini otomatikleştirebilir fakat belirli karar vermeye dayalı olan durumlar için insan varlığına ihtiyaç duyar. 
 Otomatik robotlar asla yolunu kaybetmez, hataları azaltmak için hesaplamalar yapar. 
 Genel süreç tipik olarak birkaç aynı görevi saatlerce insan katılımı gerektirebilirken robotlar, siparişi otomatik olarak gerçekleştirebilir.
--	5. Bir satış veri tabanının  sürdürülmesine yardımcı olabilir. 
--	6. Müşteri deneyimi, uyumluluk raporlama uygulaması, risk yönetimine yardımcı olur. 
+-   5. Bir satış veri tabanının  sürdürülmesine yardımcı olabilir. 
+-   6. Müşteri deneyimi, uyumluluk raporlama uygulaması, risk yönetimine yardımcı olur. 
 Uyum bileşenlerine yardımcı olma ve destekleme potansiyeline sahiptir, esnek bir şekilde bu robotlar maliyet ve zaman yönetimine yardımcı olur.
