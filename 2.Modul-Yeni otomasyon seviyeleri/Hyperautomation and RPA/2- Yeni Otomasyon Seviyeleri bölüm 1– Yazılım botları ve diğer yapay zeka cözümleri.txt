@@ -4,7 +4,7 @@ Transkript:
 ve gerçekten de AI çözümleri, otomasyonun tamamen yeni seviyelerine ulaşılmasına yardımcı olur.
  Böylece de verimliliğin ve üretkenliğin yeni seviyelerine ulaşılabilir.
  Modern AI çözümlerinin kombinasyonları benzeri görülmemiş bir ölçekte otomasyonu sağlar.
- Bu durum, analistler ve uzmanlar tarafından hiper-otomasyon olarak adlandırılır.
+Bu durum, analistler ve uzmanlar tarafından hiper-otomasyon olarak adlandırılır.
  Peki otomasyonu bu kadar etkili ve büyüleyici yapan şey nedir?
  Açıkçası manuel ya da kısmen manuel süreçler çoğu zaman kayda değer ölçüde yavaş ve pahalıdır.
  Çünkü çok fazla insan emeğine ihtiyaç duyarlar.
