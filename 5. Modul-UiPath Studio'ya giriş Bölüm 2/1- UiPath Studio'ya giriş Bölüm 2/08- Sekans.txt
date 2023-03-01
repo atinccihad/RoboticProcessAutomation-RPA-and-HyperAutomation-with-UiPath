@@ -1,3 +1,3 @@
  Diziler, UiPath studio'daki en basit otomasyon proje düzenidir. Bu, bir etkinlikten diğerine 
-sorunsuz bir şekilde geçmenizi ve tek bir blok etkinliği olarak hareket etmenizi sağladığından, 
+sorunsuz bir sekilde geçmenizi ve tek bir blok etkinliği olarak hareket etmenizi sağladığından, 
 doğrusal süreçler için uygundur ve etkinliklerden bir sıra oluşturabilir.
