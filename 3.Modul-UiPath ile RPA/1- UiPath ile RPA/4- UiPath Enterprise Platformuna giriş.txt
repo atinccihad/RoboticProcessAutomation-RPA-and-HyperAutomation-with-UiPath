@@ -15,7 +15,7 @@ sezgisel bir otomasyon aracıdır.
  Robotlar stüdyoda oluşturulan yazılım işçicileridir. UiPath robotu her iş sürecini dağıtır. 
 Katılımcı robotlar çalışanlara doğrudan yardımcı olur, gözetimsiz (katılmayan) robotlar bağımsız olarak çalışır.
  Son olarak, orkestratör robotları atayan, işlerin zamanını ayarlayan ve performansı raporlayan akıllı bir konsoldur.
- Tüm UiPath Enterprise RPA Platformu bileşenleri sorunsuz ve hızlı bir şekilde birlikte çalışarak benzersiz, 
+Tüm UiPath Enterprise RPA Platformu bileşenleri sorunsuz ve hızlı bir şekilde birlikte çalışarak benzersiz, 
 yenilikçi, uçtan uca çözümleri ile müşterilere performans, maliyet ve kullanıcı deneyimi açısından rekabet üstünlüğü verir.
  UiPath Enterprise RPA Platformu ile, kullanıcılar uçtan uca iş süreçlerinin üstesinden gelebilirler ve sistemi, 
 değişen talepleri karşılayacak şekilde ölçeklendirebilirler.
