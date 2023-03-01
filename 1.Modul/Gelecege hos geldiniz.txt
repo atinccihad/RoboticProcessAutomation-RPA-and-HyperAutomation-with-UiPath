@@ -4,8 +4,8 @@ Transkript:
 modern robotik ve otomasyon teknolojileri şirketlerimizde,
 kurumlarımızda, ekonomimizde ve toplumumuzda daha önce
 benzeri görülmemiş bir ölçekte manuel görevlerin otomasyonunu sağlıyor.
- Sadece bilişsel AI çözümleri ile birleştirilmiş yazılım botları,
-süreç, görev madenciliği ve gelişmiş analitiklerden bahsetmekle kalmıyor,
+ Sadece bilişsel AI çözümleri ile birleştirilmiş yazılım botları, süreç, görev madenciliği ve 
+gelişmiş analitiklerden bahsetmekle kalmıyor,
 aynı zamanda Nesnelerin İnterneti (IoT),
 giyilebilir cihazlar gibi çeşitli modern teknolojilerden de bahsediyoruz.
  Bu teknolojiler arasında robotik süreç otomasyonu RPA
