@@ -9,7 +9,7 @@ siparişlerini dijitalleştirebilir ve işleyebilir.
 ve istenilen formatta kaydedebilir. Çalışan onayı gerektirebilecek her şey önceden belirlenebilir.
  Böylece robot, diğer sipariş işlemleri üzerinde çalışmaya devam ederken çalışanı onaylaması için uyaracaktır.
  Daha karmaşık başka bir örnek ise, Envanter Yönetimi.
- Diyelim ki sayacağım ürünlerin stoklarını yönetmesi gereken bir perakendecisiniz: 
+Diyelim ki sayacağım ürünlerin stoklarını yönetmesi gereken bir perakendecisiniz: 
 LG TV Nikon kamera Shark elektrikli süpürge ve MegaBoom hoparlör.
  Tamamen otomatik olan UiPath bot, CRM’nize gider, geçmiş envanter ve satış verilerini yakalar. 
 Ve bunu, her ürün için en uygun envanteri tahmin eden makine öğrenimi modellerine gönderir. Ama son işlem bu değil. 
