@@ -1,4 +1,4 @@
 Diğerlerinin yanı sıra UiPath'ta verileri yakalamak için kullanabileceğimiz en yaygın iki yöntem; 
 - Web Scraping 
 - Data Scraping
-'tir.
+ 'tir.
