@@ -24,5 +24,5 @@ etkinlikleri gösteren tasarımcı penceresine geri götürür. Kayıt seçeneğ
 - öğe, 
 - metin ve 
 - resim 
- seçeneklerinden oluşur. Belirtildiği gibi, bunların tümü, kayıt cihazı tarafından otomatik olarak yakalanmayan 
+seçeneklerinden oluşur. Belirtildiği gibi, bunların tümü, kayıt cihazı tarafından otomatik olarak yakalanmayan 
 belirli eylemleri eklemenize yardımcı olacaktır.
