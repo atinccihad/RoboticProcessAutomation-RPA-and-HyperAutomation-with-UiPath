@@ -8,5 +8,5 @@ Internet Explorer, Google Chrome veya Mozilla Firefox tarayıcılarından herhan
 - Image Recorder : Görüntü kaydedici, tüm sanal ortamlar için görüntüleri kullanır, otomasyon tüm uygulamaları tanımlayamaz 
 ve görüntü tanımaya dayanır. Bu tür bir kayıtta verinin açık konumu gereklidir. 
 - Native Citrix Recorder : Yerel Citrix, uipath yerel Citrix'i desteklemek için yapılandıran Citrix ortamı için kullanılır.
-Kurulum yaptıktan sonra bu kayıt cihazı, Sanal ortamlarda sorunsuz bir şekilde çalışacaktır. Tıpkı masaüstü kaydedicinin 
+ Kurulum yaptıktan sonra bu kayıt cihazı, Sanal ortamlarda sorunsuz bir şekilde çalışacaktır. Tıpkı masaüstü kaydedicinin 
 normal bir masaüstünde çalışması gibi(kullanım olarak zor gibi belirtilse de tercih edilen ve kolay kullanıma sahiptir).
