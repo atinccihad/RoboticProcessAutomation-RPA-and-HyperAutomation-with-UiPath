@@ -9,7 +9,7 @@ UiPath Studio ücretsiz mi?
  UiPath Studio Community,
 bireysel geliştiriciler,
 küçük profesyonel ekipler,
-eğitim ve öğretim amaçları için ücretsizdir . ..
+eğitim ve öğretim amaçları için ücretsizdir . 
 ============================================================================================================
 UiPath ne için kullanılır?
  UiPath süreçleri kolaylaştırır,
