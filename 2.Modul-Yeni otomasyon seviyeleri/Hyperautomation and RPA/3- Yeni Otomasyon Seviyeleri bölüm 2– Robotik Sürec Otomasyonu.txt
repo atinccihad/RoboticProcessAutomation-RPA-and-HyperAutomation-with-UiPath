@@ -12,7 +12,7 @@ Tıpkı insan kullanıcılar gibi, yalnızca bu platformlara ve uygulamalara eri
 kullanıcı adı ve şifreye ihtiyaç duyması demek.
  Bize para ve zaman kazandıran yaklaşım da tam olarak budur ve bu yüzden ofis ortamlarımıza büyük bir otomasyon dalgası yaklaşmaktadır.
  Endüstride on yıllardır olan ve üretim süreçlerinin hatta tüm üretim hattının robotlaştırılması olarak adlandırılan şey günümüzde 
-biraz gecikmeyle de olsa hizmet sektöründe de yönetimde de yaşanan tam olarak budur. Üretim ortamlarındaki mavi yaka işlerin çoğunu 
+biraz gecikmeyle de olsa hizmet sektöründe de yönetimde de yaşanan tam olarak budur.Üretim ortamlarındaki mavi yaka işlerin çoğunu 
 otomatikleştirmiş fiziksel robotlara benzer şekilde yazılım robotları da beyaz yaka ortamındaki rutin işleri hızla otomatikleştiriyor. 
 Aynı zamanda bu botlar insanları can sıkıcı belirli işlerden kurtarıyor.
  Burada bahsedilen ağır ve sağlıksız işler değil bahsedilen şey sıkıcı ve tekrara düşen ve birçok kişinin yapmaktan nefret ettiği aptalca işler.
