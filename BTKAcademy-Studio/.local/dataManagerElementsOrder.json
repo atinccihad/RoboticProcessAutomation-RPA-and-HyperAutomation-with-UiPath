@@ -19,6 +19,17 @@
     {
       "Path": "Main.xaml",
       "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "Durum&Sequence_5",
+        "KullaniciAdi&Sequence_5"
+      ],
+      "ArgumentsSectionElementsOrder": null,
+      "ConstantsSectionElementsOrder": null,
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "DynamicSelector.xaml",
+      "SortBy": 0,
       "VariablesSectionElementsOrder": null,
       "ArgumentsSectionElementsOrder": null,
       "ConstantsSectionElementsOrder": null,
