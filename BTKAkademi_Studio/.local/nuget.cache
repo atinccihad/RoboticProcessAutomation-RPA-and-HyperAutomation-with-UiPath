@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "KNubagaNF5MIM+tu/omaYXEHpXp6EtBMF1heTlpMWuPumcW1Ev6R6woTDwsY163o2s80Mx+5wYVlxubjQUlqiQ==",
+  "dgSpecHash": "1P8DTmcFLcLhyEeV7Rnojqa/vADOZJrs+0NqdDDHMyKvD6apu807MHd9tJ17Gc99aUac9ETgs4IlH56OQl8r7w==",
   "success": true,
   "projectFilePath": "C:\\Users\\USER\\Desktop\\GitRepo\\RoboticProcessAutomation(RPA) & HyperAutomation\\BTKAkademi_Studio\\.local\\",
   "expectedPackageFiles": [
@@ -277,7 +277,7 @@
     "C:\\Users\\USER\\.nuget\\packages\\uipath.platform\\22.10.2\\uipath.platform.22.10.2.nupkg.sha512",
     "C:\\Users\\USER\\.nuget\\packages\\uipath.system.activities\\22.10.4\\uipath.system.activities.22.10.4.nupkg.sha512",
     "C:\\Users\\USER\\.nuget\\packages\\uipath.telemetry.client\\1.5.3\\uipath.telemetry.client.1.5.3.nupkg.sha512",
-    "C:\\Users\\USER\\.nuget\\packages\\uipath.testing.activities\\22.12.0-preview\\uipath.testing.activities.22.12.0-preview.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\uipath.testing.activities\\22.10.3\\uipath.testing.activities.22.10.3.nupkg.sha512",
     "C:\\Users\\USER\\.nuget\\packages\\uipath.uiautomation.activities\\22.10.4\\uipath.uiautomation.activities.22.10.4.nupkg.sha512",
     "C:\\Users\\USER\\.nuget\\packages\\uipath.vision\\3.6.0\\uipath.vision.3.6.0.nupkg.sha512"
   ],

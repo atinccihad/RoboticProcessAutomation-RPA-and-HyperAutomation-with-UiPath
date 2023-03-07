@@ -4750,7 +4750,7 @@
           "lib/netstandard2.0/TelemetryClient.dll": {}
         }
       },
-      "UiPath.Testing.Activities/22.12.0-preview": {
+      "UiPath.Testing.Activities/22.10.3": {
         "type": "package",
         "dependencies": {
           "AutoMapper": "9.0.0",
@@ -4763,130 +4763,130 @@
           "UiPath.Telemetry.Client": "1.5.3"
         },
         "compile": {
-          "lib/net6.0-windows7.0/_._": {}
+          "lib/net5.0-windows7.0/_._": {}
         },
         "runtime": {
-          "lib/net6.0-windows7.0/UiPath.Testing.Activities.Design.dll": {},
-          "lib/net6.0-windows7.0/UiPath.Testing.Activities.dll": {},
-          "lib/net6.0-windows7.0/UiPath.Testing.RulesLibrary.dll": {},
-          "lib/net6.0-windows7.0/UiPath.Testing.dll": {}
+          "lib/net5.0-windows7.0/UiPath.Testing.Activities.Design.dll": {},
+          "lib/net5.0-windows7.0/UiPath.Testing.Activities.dll": {},
+          "lib/net5.0-windows7.0/UiPath.Testing.RulesLibrary.dll": {},
+          "lib/net5.0-windows7.0/UiPath.Testing.dll": {}
         },
         "resource": {
-          "lib/net6.0-windows7.0/de/UiPath.Testing.Activities.Design.resources.dll": {
+          "lib/net5.0-windows7.0/de/UiPath.Testing.Activities.Design.resources.dll": {
             "locale": "de"
           },
-          "lib/net6.0-windows7.0/de/UiPath.Testing.Activities.resources.dll": {
+          "lib/net5.0-windows7.0/de/UiPath.Testing.Activities.resources.dll": {
             "locale": "de"
           },
-          "lib/net6.0-windows7.0/de/UiPath.Testing.RulesLibrary.resources.dll": {
+          "lib/net5.0-windows7.0/de/UiPath.Testing.RulesLibrary.resources.dll": {
             "locale": "de"
           },
-          "lib/net6.0-windows7.0/es-MX/UiPath.Testing.Activities.Design.resources.dll": {
+          "lib/net5.0-windows7.0/es-MX/UiPath.Testing.Activities.Design.resources.dll": {
             "locale": "es-MX"
           },
-          "lib/net6.0-windows7.0/es-MX/UiPath.Testing.Activities.resources.dll": {
+          "lib/net5.0-windows7.0/es-MX/UiPath.Testing.Activities.resources.dll": {
             "locale": "es-MX"
           },
-          "lib/net6.0-windows7.0/es-MX/UiPath.Testing.RulesLibrary.resources.dll": {
+          "lib/net5.0-windows7.0/es-MX/UiPath.Testing.RulesLibrary.resources.dll": {
             "locale": "es-MX"
           },
-          "lib/net6.0-windows7.0/es/UiPath.Testing.Activities.Design.resources.dll": {
+          "lib/net5.0-windows7.0/es/UiPath.Testing.Activities.Design.resources.dll": {
             "locale": "es"
           },
-          "lib/net6.0-windows7.0/es/UiPath.Testing.Activities.resources.dll": {
+          "lib/net5.0-windows7.0/es/UiPath.Testing.Activities.resources.dll": {
             "locale": "es"
           },
-          "lib/net6.0-windows7.0/es/UiPath.Testing.RulesLibrary.resources.dll": {
+          "lib/net5.0-windows7.0/es/UiPath.Testing.RulesLibrary.resources.dll": {
             "locale": "es"
           },
-          "lib/net6.0-windows7.0/fr/UiPath.Testing.Activities.Design.resources.dll": {
+          "lib/net5.0-windows7.0/fr/UiPath.Testing.Activities.Design.resources.dll": {
             "locale": "fr"
           },
-          "lib/net6.0-windows7.0/fr/UiPath.Testing.Activities.resources.dll": {
+          "lib/net5.0-windows7.0/fr/UiPath.Testing.Activities.resources.dll": {
             "locale": "fr"
           },
-          "lib/net6.0-windows7.0/fr/UiPath.Testing.RulesLibrary.resources.dll": {
+          "lib/net5.0-windows7.0/fr/UiPath.Testing.RulesLibrary.resources.dll": {
             "locale": "fr"
           },
-          "lib/net6.0-windows7.0/ja/UiPath.Testing.Activities.Design.resources.dll": {
+          "lib/net5.0-windows7.0/ja/UiPath.Testing.Activities.Design.resources.dll": {
             "locale": "ja"
           },
-          "lib/net6.0-windows7.0/ja/UiPath.Testing.Activities.resources.dll": {
+          "lib/net5.0-windows7.0/ja/UiPath.Testing.Activities.resources.dll": {
             "locale": "ja"
           },
-          "lib/net6.0-windows7.0/ja/UiPath.Testing.RulesLibrary.resources.dll": {
+          "lib/net5.0-windows7.0/ja/UiPath.Testing.RulesLibrary.resources.dll": {
             "locale": "ja"
           },
-          "lib/net6.0-windows7.0/ko/UiPath.Testing.Activities.Design.resources.dll": {
+          "lib/net5.0-windows7.0/ko/UiPath.Testing.Activities.Design.resources.dll": {
             "locale": "ko"
           },
-          "lib/net6.0-windows7.0/ko/UiPath.Testing.Activities.resources.dll": {
+          "lib/net5.0-windows7.0/ko/UiPath.Testing.Activities.resources.dll": {
             "locale": "ko"
           },
-          "lib/net6.0-windows7.0/ko/UiPath.Testing.RulesLibrary.resources.dll": {
+          "lib/net5.0-windows7.0/ko/UiPath.Testing.RulesLibrary.resources.dll": {
             "locale": "ko"
           },
-          "lib/net6.0-windows7.0/pt-BR/UiPath.Testing.Activities.Design.resources.dll": {
+          "lib/net5.0-windows7.0/pt-BR/UiPath.Testing.Activities.Design.resources.dll": {
             "locale": "pt-BR"
           },
-          "lib/net6.0-windows7.0/pt-BR/UiPath.Testing.Activities.resources.dll": {
+          "lib/net5.0-windows7.0/pt-BR/UiPath.Testing.Activities.resources.dll": {
             "locale": "pt-BR"
           },
-          "lib/net6.0-windows7.0/pt-BR/UiPath.Testing.RulesLibrary.resources.dll": {
+          "lib/net5.0-windows7.0/pt-BR/UiPath.Testing.RulesLibrary.resources.dll": {
             "locale": "pt-BR"
           },
-          "lib/net6.0-windows7.0/pt/UiPath.Testing.Activities.Design.resources.dll": {
+          "lib/net5.0-windows7.0/pt/UiPath.Testing.Activities.Design.resources.dll": {
             "locale": "pt"
           },
-          "lib/net6.0-windows7.0/pt/UiPath.Testing.Activities.resources.dll": {
+          "lib/net5.0-windows7.0/pt/UiPath.Testing.Activities.resources.dll": {
             "locale": "pt"
           },
-          "lib/net6.0-windows7.0/pt/UiPath.Testing.RulesLibrary.resources.dll": {
+          "lib/net5.0-windows7.0/pt/UiPath.Testing.RulesLibrary.resources.dll": {
             "locale": "pt"
           },
-          "lib/net6.0-windows7.0/ru/UiPath.Testing.Activities.Design.resources.dll": {
+          "lib/net5.0-windows7.0/ru/UiPath.Testing.Activities.Design.resources.dll": {
             "locale": "ru"
           },
-          "lib/net6.0-windows7.0/ru/UiPath.Testing.Activities.resources.dll": {
+          "lib/net5.0-windows7.0/ru/UiPath.Testing.Activities.resources.dll": {
             "locale": "ru"
           },
-          "lib/net6.0-windows7.0/ru/UiPath.Testing.RulesLibrary.resources.dll": {
+          "lib/net5.0-windows7.0/ru/UiPath.Testing.RulesLibrary.resources.dll": {
             "locale": "ru"
           },
-          "lib/net6.0-windows7.0/tr/UiPath.Testing.Activities.Design.resources.dll": {
+          "lib/net5.0-windows7.0/tr/UiPath.Testing.Activities.Design.resources.dll": {
             "locale": "tr"
           },
-          "lib/net6.0-windows7.0/tr/UiPath.Testing.Activities.resources.dll": {
+          "lib/net5.0-windows7.0/tr/UiPath.Testing.Activities.resources.dll": {
             "locale": "tr"
           },
-          "lib/net6.0-windows7.0/tr/UiPath.Testing.RulesLibrary.resources.dll": {
+          "lib/net5.0-windows7.0/tr/UiPath.Testing.RulesLibrary.resources.dll": {
             "locale": "tr"
           },
-          "lib/net6.0-windows7.0/zh-CN/UiPath.Testing.Activities.Design.resources.dll": {
+          "lib/net5.0-windows7.0/zh-CN/UiPath.Testing.Activities.Design.resources.dll": {
             "locale": "zh-CN"
           },
-          "lib/net6.0-windows7.0/zh-CN/UiPath.Testing.Activities.resources.dll": {
+          "lib/net5.0-windows7.0/zh-CN/UiPath.Testing.Activities.resources.dll": {
             "locale": "zh-CN"
           },
-          "lib/net6.0-windows7.0/zh-CN/UiPath.Testing.RulesLibrary.resources.dll": {
+          "lib/net5.0-windows7.0/zh-CN/UiPath.Testing.RulesLibrary.resources.dll": {
             "locale": "zh-CN"
           },
-          "lib/net6.0-windows7.0/zh-TW/UiPath.Testing.Activities.Design.resources.dll": {
+          "lib/net5.0-windows7.0/zh-TW/UiPath.Testing.Activities.Design.resources.dll": {
             "locale": "zh-TW"
           },
-          "lib/net6.0-windows7.0/zh-TW/UiPath.Testing.Activities.resources.dll": {
+          "lib/net5.0-windows7.0/zh-TW/UiPath.Testing.Activities.resources.dll": {
             "locale": "zh-TW"
           },
-          "lib/net6.0-windows7.0/zh-TW/UiPath.Testing.RulesLibrary.resources.dll": {
+          "lib/net5.0-windows7.0/zh-TW/UiPath.Testing.RulesLibrary.resources.dll": {
             "locale": "zh-TW"
           },
-          "lib/net6.0-windows7.0/zu/UiPath.Testing.Activities.Design.resources.dll": {
+          "lib/net5.0-windows7.0/zu/UiPath.Testing.Activities.Design.resources.dll": {
             "locale": "zu"
           },
-          "lib/net6.0-windows7.0/zu/UiPath.Testing.Activities.resources.dll": {
+          "lib/net5.0-windows7.0/zu/UiPath.Testing.Activities.resources.dll": {
             "locale": "zu"
           },
-          "lib/net6.0-windows7.0/zu/UiPath.Testing.RulesLibrary.resources.dll": {
+          "lib/net5.0-windows7.0/zu/UiPath.Testing.RulesLibrary.resources.dll": {
             "locale": "zu"
           }
         },
@@ -9858,7 +9858,7 @@
           "lib/netstandard2.0/TelemetryClient.dll": {}
         }
       },
-      "UiPath.Testing.Activities/22.12.0-preview": {
+      "UiPath.Testing.Activities/22.10.3": {
         "type": "package",
         "dependencies": {
           "AutoMapper": "9.0.0",
@@ -9871,130 +9871,130 @@
           "UiPath.Telemetry.Client": "1.5.3"
         },
         "compile": {
-          "lib/net6.0-windows7.0/_._": {}
+          "lib/net5.0-windows7.0/_._": {}
         },
         "runtime": {
-          "lib/net6.0-windows7.0/UiPath.Testing.Activities.Design.dll": {},
-          "lib/net6.0-windows7.0/UiPath.Testing.Activities.dll": {},
-          "lib/net6.0-windows7.0/UiPath.Testing.RulesLibrary.dll": {},
-          "lib/net6.0-windows7.0/UiPath.Testing.dll": {}
+          "lib/net5.0-windows7.0/UiPath.Testing.Activities.Design.dll": {},
+          "lib/net5.0-windows7.0/UiPath.Testing.Activities.dll": {},
+          "lib/net5.0-windows7.0/UiPath.Testing.RulesLibrary.dll": {},
+          "lib/net5.0-windows7.0/UiPath.Testing.dll": {}
         },
         "resource": {
-          "lib/net6.0-windows7.0/de/UiPath.Testing.Activities.Design.resources.dll": {
+          "lib/net5.0-windows7.0/de/UiPath.Testing.Activities.Design.resources.dll": {
             "locale": "de"
           },
-          "lib/net6.0-windows7.0/de/UiPath.Testing.Activities.resources.dll": {
+          "lib/net5.0-windows7.0/de/UiPath.Testing.Activities.resources.dll": {
             "locale": "de"
           },
-          "lib/net6.0-windows7.0/de/UiPath.Testing.RulesLibrary.resources.dll": {
+          "lib/net5.0-windows7.0/de/UiPath.Testing.RulesLibrary.resources.dll": {
             "locale": "de"
           },
-          "lib/net6.0-windows7.0/es-MX/UiPath.Testing.Activities.Design.resources.dll": {
+          "lib/net5.0-windows7.0/es-MX/UiPath.Testing.Activities.Design.resources.dll": {
             "locale": "es-MX"
           },
-          "lib/net6.0-windows7.0/es-MX/UiPath.Testing.Activities.resources.dll": {
+          "lib/net5.0-windows7.0/es-MX/UiPath.Testing.Activities.resources.dll": {
             "locale": "es-MX"
           },
-          "lib/net6.0-windows7.0/es-MX/UiPath.Testing.RulesLibrary.resources.dll": {
+          "lib/net5.0-windows7.0/es-MX/UiPath.Testing.RulesLibrary.resources.dll": {
             "locale": "es-MX"
           },
-          "lib/net6.0-windows7.0/es/UiPath.Testing.Activities.Design.resources.dll": {
+          "lib/net5.0-windows7.0/es/UiPath.Testing.Activities.Design.resources.dll": {
             "locale": "es"
           },
-          "lib/net6.0-windows7.0/es/UiPath.Testing.Activities.resources.dll": {
+          "lib/net5.0-windows7.0/es/UiPath.Testing.Activities.resources.dll": {
             "locale": "es"
           },
-          "lib/net6.0-windows7.0/es/UiPath.Testing.RulesLibrary.resources.dll": {
+          "lib/net5.0-windows7.0/es/UiPath.Testing.RulesLibrary.resources.dll": {
             "locale": "es"
           },
-          "lib/net6.0-windows7.0/fr/UiPath.Testing.Activities.Design.resources.dll": {
+          "lib/net5.0-windows7.0/fr/UiPath.Testing.Activities.Design.resources.dll": {
             "locale": "fr"
           },
-          "lib/net6.0-windows7.0/fr/UiPath.Testing.Activities.resources.dll": {
+          "lib/net5.0-windows7.0/fr/UiPath.Testing.Activities.resources.dll": {
             "locale": "fr"
           },
-          "lib/net6.0-windows7.0/fr/UiPath.Testing.RulesLibrary.resources.dll": {
+          "lib/net5.0-windows7.0/fr/UiPath.Testing.RulesLibrary.resources.dll": {
             "locale": "fr"
           },
-          "lib/net6.0-windows7.0/ja/UiPath.Testing.Activities.Design.resources.dll": {
+          "lib/net5.0-windows7.0/ja/UiPath.Testing.Activities.Design.resources.dll": {
             "locale": "ja"
           },
-          "lib/net6.0-windows7.0/ja/UiPath.Testing.Activities.resources.dll": {
+          "lib/net5.0-windows7.0/ja/UiPath.Testing.Activities.resources.dll": {
             "locale": "ja"
           },
-          "lib/net6.0-windows7.0/ja/UiPath.Testing.RulesLibrary.resources.dll": {
+          "lib/net5.0-windows7.0/ja/UiPath.Testing.RulesLibrary.resources.dll": {
             "locale": "ja"
           },
-          "lib/net6.0-windows7.0/ko/UiPath.Testing.Activities.Design.resources.dll": {
+          "lib/net5.0-windows7.0/ko/UiPath.Testing.Activities.Design.resources.dll": {
             "locale": "ko"
           },
-          "lib/net6.0-windows7.0/ko/UiPath.Testing.Activities.resources.dll": {
+          "lib/net5.0-windows7.0/ko/UiPath.Testing.Activities.resources.dll": {
             "locale": "ko"
           },
-          "lib/net6.0-windows7.0/ko/UiPath.Testing.RulesLibrary.resources.dll": {
+          "lib/net5.0-windows7.0/ko/UiPath.Testing.RulesLibrary.resources.dll": {
             "locale": "ko"
           },
-          "lib/net6.0-windows7.0/pt-BR/UiPath.Testing.Activities.Design.resources.dll": {
+          "lib/net5.0-windows7.0/pt-BR/UiPath.Testing.Activities.Design.resources.dll": {
             "locale": "pt-BR"
           },
-          "lib/net6.0-windows7.0/pt-BR/UiPath.Testing.Activities.resources.dll": {
+          "lib/net5.0-windows7.0/pt-BR/UiPath.Testing.Activities.resources.dll": {
             "locale": "pt-BR"
           },
-          "lib/net6.0-windows7.0/pt-BR/UiPath.Testing.RulesLibrary.resources.dll": {
+          "lib/net5.0-windows7.0/pt-BR/UiPath.Testing.RulesLibrary.resources.dll": {
             "locale": "pt-BR"
           },
-          "lib/net6.0-windows7.0/pt/UiPath.Testing.Activities.Design.resources.dll": {
+          "lib/net5.0-windows7.0/pt/UiPath.Testing.Activities.Design.resources.dll": {
             "locale": "pt"
           },
-          "lib/net6.0-windows7.0/pt/UiPath.Testing.Activities.resources.dll": {
+          "lib/net5.0-windows7.0/pt/UiPath.Testing.Activities.resources.dll": {
             "locale": "pt"
           },
-          "lib/net6.0-windows7.0/pt/UiPath.Testing.RulesLibrary.resources.dll": {
+          "lib/net5.0-windows7.0/pt/UiPath.Testing.RulesLibrary.resources.dll": {
             "locale": "pt"
           },
-          "lib/net6.0-windows7.0/ru/UiPath.Testing.Activities.Design.resources.dll": {
+          "lib/net5.0-windows7.0/ru/UiPath.Testing.Activities.Design.resources.dll": {
             "locale": "ru"
           },
-          "lib/net6.0-windows7.0/ru/UiPath.Testing.Activities.resources.dll": {
+          "lib/net5.0-windows7.0/ru/UiPath.Testing.Activities.resources.dll": {
             "locale": "ru"
           },
-          "lib/net6.0-windows7.0/ru/UiPath.Testing.RulesLibrary.resources.dll": {
+          "lib/net5.0-windows7.0/ru/UiPath.Testing.RulesLibrary.resources.dll": {
             "locale": "ru"
           },
-          "lib/net6.0-windows7.0/tr/UiPath.Testing.Activities.Design.resources.dll": {
+          "lib/net5.0-windows7.0/tr/UiPath.Testing.Activities.Design.resources.dll": {
             "locale": "tr"
           },
-          "lib/net6.0-windows7.0/tr/UiPath.Testing.Activities.resources.dll": {
+          "lib/net5.0-windows7.0/tr/UiPath.Testing.Activities.resources.dll": {
             "locale": "tr"
           },
-          "lib/net6.0-windows7.0/tr/UiPath.Testing.RulesLibrary.resources.dll": {
+          "lib/net5.0-windows7.0/tr/UiPath.Testing.RulesLibrary.resources.dll": {
             "locale": "tr"
           },
-          "lib/net6.0-windows7.0/zh-CN/UiPath.Testing.Activities.Design.resources.dll": {
+          "lib/net5.0-windows7.0/zh-CN/UiPath.Testing.Activities.Design.resources.dll": {
             "locale": "zh-CN"
           },
-          "lib/net6.0-windows7.0/zh-CN/UiPath.Testing.Activities.resources.dll": {
+          "lib/net5.0-windows7.0/zh-CN/UiPath.Testing.Activities.resources.dll": {
             "locale": "zh-CN"
           },
-          "lib/net6.0-windows7.0/zh-CN/UiPath.Testing.RulesLibrary.resources.dll": {
+          "lib/net5.0-windows7.0/zh-CN/UiPath.Testing.RulesLibrary.resources.dll": {
             "locale": "zh-CN"
           },
-          "lib/net6.0-windows7.0/zh-TW/UiPath.Testing.Activities.Design.resources.dll": {
+          "lib/net5.0-windows7.0/zh-TW/UiPath.Testing.Activities.Design.resources.dll": {
             "locale": "zh-TW"
           },
-          "lib/net6.0-windows7.0/zh-TW/UiPath.Testing.Activities.resources.dll": {
+          "lib/net5.0-windows7.0/zh-TW/UiPath.Testing.Activities.resources.dll": {
             "locale": "zh-TW"
           },
-          "lib/net6.0-windows7.0/zh-TW/UiPath.Testing.RulesLibrary.resources.dll": {
+          "lib/net5.0-windows7.0/zh-TW/UiPath.Testing.RulesLibrary.resources.dll": {
             "locale": "zh-TW"
           },
-          "lib/net6.0-windows7.0/zu/UiPath.Testing.Activities.Design.resources.dll": {
+          "lib/net5.0-windows7.0/zu/UiPath.Testing.Activities.Design.resources.dll": {
             "locale": "zu"
           },
-          "lib/net6.0-windows7.0/zu/UiPath.Testing.Activities.resources.dll": {
+          "lib/net5.0-windows7.0/zu/UiPath.Testing.Activities.resources.dll": {
             "locale": "zu"
           },
-          "lib/net6.0-windows7.0/zu/UiPath.Testing.RulesLibrary.resources.dll": {
+          "lib/net5.0-windows7.0/zu/UiPath.Testing.RulesLibrary.resources.dll": {
             "locale": "zu"
           }
         },
@@ -19905,10 +19905,10 @@
         "uipath.telemetry.client.nuspec"
       ]
     },
-    "UiPath.Testing.Activities/22.12.0-preview": {
-      "sha512": "hX0VmTXvDyM/UWlcGSG+bjgP+qnHq+k4EpSmiLbvBAY7+SWyt5HaBW8gRTq+ifvQeiwELZ8s+jCUI6q5FeBtgw==",
+    "UiPath.Testing.Activities/22.10.3": {
+      "sha512": "UsR37X/o7z5rej66M1DOqj9F4S1p11NCj/41iHRBIWY7NIDcq9wmh/LVi4NYYg3nQNSvxcxGCMMng1gRgFMMJw==",
       "type": "package",
-      "path": "uipath.testing.activities/22.12.0-preview",
+      "path": "uipath.testing.activities/22.10.3",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -19967,79 +19967,79 @@
         "lib/net461/zu/UiPath.Testing.Activities.Design.resources.dll",
         "lib/net461/zu/UiPath.Testing.Activities.resources.dll",
         "lib/net461/zu/UiPath.Testing.RulesLibrary.resources.dll",
-        "lib/net6.0-windows7.0/UiPath.Testing.Activities.Design.dll",
-        "lib/net6.0-windows7.0/UiPath.Testing.Activities.dll",
-        "lib/net6.0-windows7.0/UiPath.Testing.RulesLibrary.dll",
-        "lib/net6.0-windows7.0/UiPath.Testing.dll",
-        "lib/net6.0-windows7.0/de/UiPath.Testing.Activities.Design.resources.dll",
-        "lib/net6.0-windows7.0/de/UiPath.Testing.Activities.resources.dll",
-        "lib/net6.0-windows7.0/de/UiPath.Testing.RulesLibrary.resources.dll",
-        "lib/net6.0-windows7.0/es-MX/UiPath.Testing.Activities.Design.resources.dll",
-        "lib/net6.0-windows7.0/es-MX/UiPath.Testing.Activities.resources.dll",
-        "lib/net6.0-windows7.0/es-MX/UiPath.Testing.RulesLibrary.resources.dll",
-        "lib/net6.0-windows7.0/es/UiPath.Testing.Activities.Design.resources.dll",
-        "lib/net6.0-windows7.0/es/UiPath.Testing.Activities.resources.dll",
-        "lib/net6.0-windows7.0/es/UiPath.Testing.RulesLibrary.resources.dll",
-        "lib/net6.0-windows7.0/fr/UiPath.Testing.Activities.Design.resources.dll",
-        "lib/net6.0-windows7.0/fr/UiPath.Testing.Activities.resources.dll",
-        "lib/net6.0-windows7.0/fr/UiPath.Testing.RulesLibrary.resources.dll",
-        "lib/net6.0-windows7.0/ja/UiPath.Testing.Activities.Design.resources.dll",
-        "lib/net6.0-windows7.0/ja/UiPath.Testing.Activities.resources.dll",
-        "lib/net6.0-windows7.0/ja/UiPath.Testing.RulesLibrary.resources.dll",
-        "lib/net6.0-windows7.0/ko/UiPath.Testing.Activities.Design.resources.dll",
-        "lib/net6.0-windows7.0/ko/UiPath.Testing.Activities.resources.dll",
-        "lib/net6.0-windows7.0/ko/UiPath.Testing.RulesLibrary.resources.dll",
-        "lib/net6.0-windows7.0/pt-BR/UiPath.Testing.Activities.Design.resources.dll",
-        "lib/net6.0-windows7.0/pt-BR/UiPath.Testing.Activities.resources.dll",
-        "lib/net6.0-windows7.0/pt-BR/UiPath.Testing.RulesLibrary.resources.dll",
-        "lib/net6.0-windows7.0/pt/UiPath.Testing.Activities.Design.resources.dll",
-        "lib/net6.0-windows7.0/pt/UiPath.Testing.Activities.resources.dll",
-        "lib/net6.0-windows7.0/pt/UiPath.Testing.RulesLibrary.resources.dll",
-        "lib/net6.0-windows7.0/ru/UiPath.Testing.Activities.Design.resources.dll",
-        "lib/net6.0-windows7.0/ru/UiPath.Testing.Activities.resources.dll",
-        "lib/net6.0-windows7.0/ru/UiPath.Testing.RulesLibrary.resources.dll",
-        "lib/net6.0-windows7.0/tr/UiPath.Testing.Activities.Design.resources.dll",
-        "lib/net6.0-windows7.0/tr/UiPath.Testing.Activities.resources.dll",
-        "lib/net6.0-windows7.0/tr/UiPath.Testing.RulesLibrary.resources.dll",
-        "lib/net6.0-windows7.0/zh-CN/UiPath.Testing.Activities.Design.resources.dll",
-        "lib/net6.0-windows7.0/zh-CN/UiPath.Testing.Activities.resources.dll",
-        "lib/net6.0-windows7.0/zh-CN/UiPath.Testing.RulesLibrary.resources.dll",
-        "lib/net6.0-windows7.0/zh-TW/UiPath.Testing.Activities.Design.resources.dll",
-        "lib/net6.0-windows7.0/zh-TW/UiPath.Testing.Activities.resources.dll",
-        "lib/net6.0-windows7.0/zh-TW/UiPath.Testing.RulesLibrary.resources.dll",
-        "lib/net6.0-windows7.0/zu/UiPath.Testing.Activities.Design.resources.dll",
-        "lib/net6.0-windows7.0/zu/UiPath.Testing.Activities.resources.dll",
-        "lib/net6.0-windows7.0/zu/UiPath.Testing.RulesLibrary.resources.dll",
-        "lib/net6.0/UiPath.Testing.Activities.dll",
-        "lib/net6.0/UiPath.Testing.RulesLibrary.dll",
-        "lib/net6.0/UiPath.Testing.dll",
-        "lib/net6.0/de/UiPath.Testing.Activities.resources.dll",
-        "lib/net6.0/de/UiPath.Testing.RulesLibrary.resources.dll",
-        "lib/net6.0/es-MX/UiPath.Testing.Activities.resources.dll",
-        "lib/net6.0/es-MX/UiPath.Testing.RulesLibrary.resources.dll",
-        "lib/net6.0/es/UiPath.Testing.Activities.resources.dll",
-        "lib/net6.0/es/UiPath.Testing.RulesLibrary.resources.dll",
-        "lib/net6.0/fr/UiPath.Testing.Activities.resources.dll",
-        "lib/net6.0/fr/UiPath.Testing.RulesLibrary.resources.dll",
-        "lib/net6.0/ja/UiPath.Testing.Activities.resources.dll",
-        "lib/net6.0/ja/UiPath.Testing.RulesLibrary.resources.dll",
-        "lib/net6.0/ko/UiPath.Testing.Activities.resources.dll",
-        "lib/net6.0/ko/UiPath.Testing.RulesLibrary.resources.dll",
-        "lib/net6.0/pt-BR/UiPath.Testing.Activities.resources.dll",
-        "lib/net6.0/pt-BR/UiPath.Testing.RulesLibrary.resources.dll",
-        "lib/net6.0/pt/UiPath.Testing.Activities.resources.dll",
-        "lib/net6.0/pt/UiPath.Testing.RulesLibrary.resources.dll",
-        "lib/net6.0/ru/UiPath.Testing.Activities.resources.dll",
-        "lib/net6.0/ru/UiPath.Testing.RulesLibrary.resources.dll",
-        "lib/net6.0/tr/UiPath.Testing.Activities.resources.dll",
-        "lib/net6.0/tr/UiPath.Testing.RulesLibrary.resources.dll",
-        "lib/net6.0/zh-CN/UiPath.Testing.Activities.resources.dll",
-        "lib/net6.0/zh-CN/UiPath.Testing.RulesLibrary.resources.dll",
-        "lib/net6.0/zh-TW/UiPath.Testing.Activities.resources.dll",
-        "lib/net6.0/zh-TW/UiPath.Testing.RulesLibrary.resources.dll",
-        "lib/net6.0/zu/UiPath.Testing.Activities.resources.dll",
-        "lib/net6.0/zu/UiPath.Testing.RulesLibrary.resources.dll",
-        "uipath.testing.activities.22.12.0-preview.nupkg.sha512",
+        "lib/net5.0-windows7.0/UiPath.Testing.Activities.Design.dll",
+        "lib/net5.0-windows7.0/UiPath.Testing.Activities.dll",
+        "lib/net5.0-windows7.0/UiPath.Testing.RulesLibrary.dll",
+        "lib/net5.0-windows7.0/UiPath.Testing.dll",
+        "lib/net5.0-windows7.0/de/UiPath.Testing.Activities.Design.resources.dll",
+        "lib/net5.0-windows7.0/de/UiPath.Testing.Activities.resources.dll",
+        "lib/net5.0-windows7.0/de/UiPath.Testing.RulesLibrary.resources.dll",
+        "lib/net5.0-windows7.0/es-MX/UiPath.Testing.Activities.Design.resources.dll",
+        "lib/net5.0-windows7.0/es-MX/UiPath.Testing.Activities.resources.dll",
+        "lib/net5.0-windows7.0/es-MX/UiPath.Testing.RulesLibrary.resources.dll",
+        "lib/net5.0-windows7.0/es/UiPath.Testing.Activities.Design.resources.dll",
+        "lib/net5.0-windows7.0/es/UiPath.Testing.Activities.resources.dll",
+        "lib/net5.0-windows7.0/es/UiPath.Testing.RulesLibrary.resources.dll",
+        "lib/net5.0-windows7.0/fr/UiPath.Testing.Activities.Design.resources.dll",
+        "lib/net5.0-windows7.0/fr/UiPath.Testing.Activities.resources.dll",
+        "lib/net5.0-windows7.0/fr/UiPath.Testing.RulesLibrary.resources.dll",
+        "lib/net5.0-windows7.0/ja/UiPath.Testing.Activities.Design.resources.dll",
+        "lib/net5.0-windows7.0/ja/UiPath.Testing.Activities.resources.dll",
+        "lib/net5.0-windows7.0/ja/UiPath.Testing.RulesLibrary.resources.dll",
+        "lib/net5.0-windows7.0/ko/UiPath.Testing.Activities.Design.resources.dll",
+        "lib/net5.0-windows7.0/ko/UiPath.Testing.Activities.resources.dll",
+        "lib/net5.0-windows7.0/ko/UiPath.Testing.RulesLibrary.resources.dll",
+        "lib/net5.0-windows7.0/pt-BR/UiPath.Testing.Activities.Design.resources.dll",
+        "lib/net5.0-windows7.0/pt-BR/UiPath.Testing.Activities.resources.dll",
+        "lib/net5.0-windows7.0/pt-BR/UiPath.Testing.RulesLibrary.resources.dll",
+        "lib/net5.0-windows7.0/pt/UiPath.Testing.Activities.Design.resources.dll",
+        "lib/net5.0-windows7.0/pt/UiPath.Testing.Activities.resources.dll",
+        "lib/net5.0-windows7.0/pt/UiPath.Testing.RulesLibrary.resources.dll",
+        "lib/net5.0-windows7.0/ru/UiPath.Testing.Activities.Design.resources.dll",
+        "lib/net5.0-windows7.0/ru/UiPath.Testing.Activities.resources.dll",
+        "lib/net5.0-windows7.0/ru/UiPath.Testing.RulesLibrary.resources.dll",
+        "lib/net5.0-windows7.0/tr/UiPath.Testing.Activities.Design.resources.dll",
+        "lib/net5.0-windows7.0/tr/UiPath.Testing.Activities.resources.dll",
+        "lib/net5.0-windows7.0/tr/UiPath.Testing.RulesLibrary.resources.dll",
+        "lib/net5.0-windows7.0/zh-CN/UiPath.Testing.Activities.Design.resources.dll",
+        "lib/net5.0-windows7.0/zh-CN/UiPath.Testing.Activities.resources.dll",
+        "lib/net5.0-windows7.0/zh-CN/UiPath.Testing.RulesLibrary.resources.dll",
+        "lib/net5.0-windows7.0/zh-TW/UiPath.Testing.Activities.Design.resources.dll",
+        "lib/net5.0-windows7.0/zh-TW/UiPath.Testing.Activities.resources.dll",
+        "lib/net5.0-windows7.0/zh-TW/UiPath.Testing.RulesLibrary.resources.dll",
+        "lib/net5.0-windows7.0/zu/UiPath.Testing.Activities.Design.resources.dll",
+        "lib/net5.0-windows7.0/zu/UiPath.Testing.Activities.resources.dll",
+        "lib/net5.0-windows7.0/zu/UiPath.Testing.RulesLibrary.resources.dll",
+        "lib/net5.0/UiPath.Testing.Activities.dll",
+        "lib/net5.0/UiPath.Testing.RulesLibrary.dll",
+        "lib/net5.0/UiPath.Testing.dll",
+        "lib/net5.0/de/UiPath.Testing.Activities.resources.dll",
+        "lib/net5.0/de/UiPath.Testing.RulesLibrary.resources.dll",
+        "lib/net5.0/es-MX/UiPath.Testing.Activities.resources.dll",
+        "lib/net5.0/es-MX/UiPath.Testing.RulesLibrary.resources.dll",
+        "lib/net5.0/es/UiPath.Testing.Activities.resources.dll",
+        "lib/net5.0/es/UiPath.Testing.RulesLibrary.resources.dll",
+        "lib/net5.0/fr/UiPath.Testing.Activities.resources.dll",
+        "lib/net5.0/fr/UiPath.Testing.RulesLibrary.resources.dll",
+        "lib/net5.0/ja/UiPath.Testing.Activities.resources.dll",
+        "lib/net5.0/ja/UiPath.Testing.RulesLibrary.resources.dll",
+        "lib/net5.0/ko/UiPath.Testing.Activities.resources.dll",
+        "lib/net5.0/ko/UiPath.Testing.RulesLibrary.resources.dll",
+        "lib/net5.0/pt-BR/UiPath.Testing.Activities.resources.dll",
+        "lib/net5.0/pt-BR/UiPath.Testing.RulesLibrary.resources.dll",
+        "lib/net5.0/pt/UiPath.Testing.Activities.resources.dll",
+        "lib/net5.0/pt/UiPath.Testing.RulesLibrary.resources.dll",
+        "lib/net5.0/ru/UiPath.Testing.Activities.resources.dll",
+        "lib/net5.0/ru/UiPath.Testing.RulesLibrary.resources.dll",
+        "lib/net5.0/tr/UiPath.Testing.Activities.resources.dll",
+        "lib/net5.0/tr/UiPath.Testing.RulesLibrary.resources.dll",
+        "lib/net5.0/zh-CN/UiPath.Testing.Activities.resources.dll",
+        "lib/net5.0/zh-CN/UiPath.Testing.RulesLibrary.resources.dll",
+        "lib/net5.0/zh-TW/UiPath.Testing.Activities.resources.dll",
+        "lib/net5.0/zh-TW/UiPath.Testing.RulesLibrary.resources.dll",
+        "lib/net5.0/zu/UiPath.Testing.Activities.resources.dll",
+        "lib/net5.0/zu/UiPath.Testing.RulesLibrary.resources.dll",
+        "uipath.testing.activities.22.10.3.nupkg.sha512",
         "uipath.testing.activities.nuspec"
       ]
     },
@@ -20752,7 +20752,7 @@
       "UiPath.Excel.Activities >= 2.17.0-preview <= 2.17.0-preview",
       "UiPath.Mail.Activities >= 1.18.2 <= 1.18.2",
       "UiPath.System.Activities >= 22.10.4 <= 22.10.4",
-      "UiPath.Testing.Activities >= 22.12.0-preview <= 22.12.0-preview",
+      "UiPath.Testing.Activities >= 22.10.3 <= 22.10.3",
       "UiPath.UIAutomation.Activities >= 22.10.4 <= 22.10.4"
     ]
   },
@@ -20788,7 +20788,7 @@
           "UiPath.Testing.Activities": {
             "include": "Runtime",
             "target": "Package",
-            "version": "[22.12.0-preview, 22.12.0-preview]"
+            "version": "[22.10.3, 22.10.3]"
           },
           "UiPath.UIAutomation.Activities": {
             "include": "Runtime",
