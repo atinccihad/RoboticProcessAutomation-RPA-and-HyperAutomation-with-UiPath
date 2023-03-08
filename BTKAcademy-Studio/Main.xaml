@@ -108,7 +108,7 @@
         <x:Boolean x:Key="IsAnnotationDocked">True</x:Boolean>
       </scg:Dictionary>
     </sap:WorkflowViewStateService.ViewState>
-    <ui:InputDialog Options="{x:Null}" OptionsString="{x:Null}" Result="{x:Null}" DisplayName="Input Dialog" sap:VirtualizedContainerService.HintSize="496,239" sap2010:WorkflowViewState.IdRef="InputDialog_2" IsPassword="False" Label="Lutfen Adinizi Girinizz" Title="Kullanici Adi" />
+    <ui:InputDialog Options="{x:Null}" OptionsString="{x:Null}" Result="{x:Null}" DisplayName="Input Dialog" sap:VirtualizedContainerService.HintSize="496,239" sap2010:WorkflowViewState.IdRef="InputDialog_2" IsPassword="False" Label="Lutfen Adinizi Giriniz" Title="Kullanici Adi" />
     <ui:LogMessage DisplayName="Log Message" sap:VirtualizedContainerService.HintSize="496,92" sap2010:WorkflowViewState.IdRef="LogMessage_2" Level="Info" Message="[KullaniciAdi]" />
     <Sequence DisplayName="Assign Sequence" sap:VirtualizedContainerService.HintSize="496,325" sap2010:WorkflowViewState.IdRef="Sequence_6">
       <sap:WorkflowViewStateService.ViewState>
