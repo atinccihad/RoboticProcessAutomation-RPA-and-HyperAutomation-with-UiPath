@@ -20763,9 +20763,9 @@
     "restore": {
       "projectUniqueName": "BTKAkademi_Studio",
       "projectName": "BTKAkademi_Studio",
-      "projectPath": "C:\\Users\\USER\\Desktop\\GitRepo\\RoboticProcessAutomation(RPA) & HyperAutomation\\BTKAkademi_Studio\\.local",
+      "projectPath": "C:\\Users\\USER\\Documents\\UiPath\\RoboticProcessAutomation-RPA-and-HyperAutomation\\BTKAcademy-Studio\\.local",
       "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\USER\\Desktop\\GitRepo\\RoboticProcessAutomation(RPA) & HyperAutomation\\BTKAkademi_Studio\\.local"
+      "outputPath": "C:\\Users\\USER\\Documents\\UiPath\\RoboticProcessAutomation-RPA-and-HyperAutomation\\BTKAcademy-Studio\\.local"
     },
     "frameworks": {
       "net6.0-windows7.0": {
