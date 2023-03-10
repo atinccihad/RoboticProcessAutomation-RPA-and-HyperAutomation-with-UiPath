@@ -1,0 +1,114 @@
+{
+  "Workflows": [
+    {
+      "Path": null,
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": null,
+      "ArgumentsSectionElementsOrder": null,
+      "ConstantsSectionElementsOrder": null,
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Main.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "sonucDeger&Sequence_1",
+        "deger2&Sequence_1",
+        "deger1&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": null,
+      "ConstantsSectionElementsOrder": null,
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Total.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "deger1&Sequence_2",
+        "deger2&Sequence_2",
+        "sonucDeger&Sequence_2"
+      ],
+      "ArgumentsSectionElementsOrder": null,
+      "ConstantsSectionElementsOrder": null,
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Extraction.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "deger1&Sequence_2",
+        "deger2&Sequence_2",
+        "sonucDeger&Sequence_2"
+      ],
+      "ArgumentsSectionElementsOrder": null,
+      "ConstantsSectionElementsOrder": null,
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Total+.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": null,
+      "ArgumentsSectionElementsOrder": null,
+      "ConstantsSectionElementsOrder": null,
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Impact.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "deger1&Sequence_2",
+        "deger2&Sequence_2",
+        "sonucDeger&Sequence_2"
+      ],
+      "ArgumentsSectionElementsOrder": null,
+      "ConstantsSectionElementsOrder": null,
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Divide.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "deger1&Sequence_2",
+        "deger2&Sequence_2",
+        "sonucDeger&Sequence_2"
+      ],
+      "ArgumentsSectionElementsOrder": null,
+      "ConstantsSectionElementsOrder": null,
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Mod.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "deger1&Sequence_2",
+        "deger2&Sequence_2",
+        "sonucDeger&Sequence_2"
+      ],
+      "ArgumentsSectionElementsOrder": null,
+      "ConstantsSectionElementsOrder": null,
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "KarsilastirmaOperatorleri.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "deger1&Sequence_2",
+        "deger2&Sequence_2"
+      ],
+      "ArgumentsSectionElementsOrder": null,
+      "ConstantsSectionElementsOrder": null,
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "MantiksalOperatorler.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "deger1&Sequence_2",
+        "deger2&Sequence_2"
+      ],
+      "ArgumentsSectionElementsOrder": null,
+      "ConstantsSectionElementsOrder": null,
+      "AddedNamespaces": null
+    }
+  ]
+}
