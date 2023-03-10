@@ -15,8 +15,8 @@
       "Path": "Main.xaml",
       "SortBy": 0,
       "VariablesSectionElementsOrder": [
-        "Int_InputValue&Sequence_1",
-        "Str_InputValue&Sequence_1"
+        "Str_InputValue&Sequence_29",
+        "Int_InputValue&Sequence_29"
       ],
       "ArgumentsSectionElementsOrder": null,
       "ConstantsSectionElementsOrder": null,
@@ -37,6 +37,22 @@
         "Str_InputValue&Sequence_1",
         "Int_InputValue&Sequence_1"
       ],
+      "ArgumentsSectionElementsOrder": null,
+      "ConstantsSectionElementsOrder": null,
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Workflow, FlowChart, Sequence.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": null,
+      "ArgumentsSectionElementsOrder": null,
+      "ConstantsSectionElementsOrder": null,
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "WorkFlow, FlowChart and Sequence.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": null,
       "ArgumentsSectionElementsOrder": null,
       "ConstantsSectionElementsOrder": null,
       "AddedNamespaces": null
