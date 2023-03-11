@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "rCnczu45deEAa9jwjJyUvflx53d09D2Htb6TiP9rdRDE98TYC0D1WRzBBRQ6NnacRNcCVIMese0sJ883xqYPvA==",
+  "dgSpecHash": "1kIV33xY0fwjp4SNwOcDlvBF13a1ZKhQSwVTcBgV1TNUtlXoy1VGn5lOQ+nh/vk5+ami3gafBk/tffSY3roFLw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\USER\\Desktop\\GitRepo\\RoboticProcessAutomation(RPA) & HyperAutomation\\If Switch Case\\.local\\",
+  "projectFilePath": "C:\\Users\\USER\\Desktop\\GitRepo\\RoboticProcessAutomation(RPA) & HyperAutomation\\BTK 7- If with Switch Case\\.local\\",
   "expectedPackageFiles": [
     "C:\\Users\\USER\\.nuget\\packages\\automapper\\9.0.0\\automapper.9.0.0.nupkg.sha512",
     "C:\\Users\\USER\\.nuget\\packages\\azure.core\\1.18.0\\azure.core.1.18.0.nupkg.sha512",
