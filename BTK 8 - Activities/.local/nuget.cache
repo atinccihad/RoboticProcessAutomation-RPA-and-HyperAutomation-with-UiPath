@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ePHkuebcJVHASDPjxxUWcizwES/jcvTX/xXBbb5QCsWyMdBAPIHvCC2KW0SeFStGDMHr1BBQs/133B7N8jk61w==",
+  "dgSpecHash": "cFj2bxfPhIeByICb3GpxewreCOinpoY0CtQh+z1M37spe5daT24XpIelZK/f6WH0HrfAHIxP2eKbxvKxrMp6tw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\USER\\Desktop\\GitRepo\\RoboticProcessAutomation(RPA) & HyperAutomation\\Activities\\.local\\",
+  "projectFilePath": "C:\\Users\\USER\\Documents\\UiPath\\RoboticProcessAutomation-RPA-and-HyperAutomation-with-UiPath\\BTK 8 - Activities\\.local\\",
   "expectedPackageFiles": [
     "C:\\Users\\USER\\.nuget\\packages\\automapper\\9.0.0\\automapper.9.0.0.nupkg.sha512",
     "C:\\Users\\USER\\.nuget\\packages\\azure.core\\1.18.0\\azure.core.1.18.0.nupkg.sha512",

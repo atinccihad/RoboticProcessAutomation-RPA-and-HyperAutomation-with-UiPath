@@ -1,55 +1,157 @@
-<Activity mc:Ignorable="sap sap2010" x:Class="Main" mva:VisualBasic.Settings="{x:Null}"
-xmlns="http://schemas.microsoft.com/netfx/2009/xaml/activities"
-xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
-xmlns:mva="clr-namespace:Microsoft.VisualBasic.Activities;assembly=System.Activities"
-xmlns:sap="http://schemas.microsoft.com/netfx/2009/xaml/activities/presentation"
-xmlns:sap2010="http://schemas.microsoft.com/netfx/2010/xaml/activities/presentation"
-xmlns:sco="clr-namespace:System.Collections.ObjectModel;assembly=mscorlib"
-xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
-    <TextExpression.NamespacesForImplementation>
-        <sco:Collection x:TypeArguments="x:String">
-            <x:String>System.Activities</x:String>
-            <x:String>System.Activities.Statements</x:String>
-            <x:String>System.Activities.Expressions</x:String>
-            <x:String>System.Activities.Validation</x:String>
-            <x:String>System.Activities.XamlIntegration</x:String>
-            <x:String>Microsoft.VisualBasic</x:String>
-            <x:String>Microsoft.VisualBasic.Activities</x:String>
-            <x:String>System</x:String>
-            <x:String>System.Collections</x:String>
-            <x:String>System.Collections.Generic</x:String>
-            <x:String>System.Data</x:String>
-            <x:String>System.Diagnostics</x:String>
-            <x:String>System.Drawing</x:String>
-            <x:String>System.IO</x:String>
-            <x:String>System.Linq</x:String>
-            <x:String>System.Net.Mail</x:String>
-            <x:String>System.Xml</x:String>
-            <x:String>System.Xml.Linq</x:String>
-            <x:String>UiPath.Core</x:String>
-            <x:String>UiPath.Core.Activities</x:String>
-            <x:String>System.Windows.Markup</x:String>
-        </sco:Collection>
-    </TextExpression.NamespacesForImplementation>
-    <TextExpression.ReferencesForImplementation>
-        <sco:Collection x:TypeArguments="AssemblyReference">
-            <AssemblyReference>System.Activities</AssemblyReference>
-            <AssemblyReference>Microsoft.VisualBasic</AssemblyReference>
-            <AssemblyReference>mscorlib</AssemblyReference>
-            <AssemblyReference>System.Data</AssemblyReference>
-            <AssemblyReference>System</AssemblyReference>
-            <AssemblyReference>System.Drawing</AssemblyReference>
-            <AssemblyReference>System.Core</AssemblyReference>
-            <AssemblyReference>System.Xml</AssemblyReference>
-            <AssemblyReference>System.Xml.Linq</AssemblyReference>
-            <AssemblyReference>PresentationFramework</AssemblyReference>
-            <AssemblyReference>WindowsBase</AssemblyReference>
-            <AssemblyReference>PresentationCore</AssemblyReference>
-            <AssemblyReference>System.Xaml</AssemblyReference>
-            <AssemblyReference>UiPath.System.Activities</AssemblyReference>
-            <AssemblyReference>UiPath.UiAutomation.Activities</AssemblyReference>
-            <AssemblyReference>System.Data.DataSetExtensions</AssemblyReference>
-        </sco:Collection>
-    </TextExpression.ReferencesForImplementation>
-    <Sequence DisplayName="Main Sequence" sap2010:WorkflowViewState.IdRef="Sequence_1"/>
+<Activity mc:Ignorable="sap sap2010" x:Class="Main" VisualBasic.Settings="{x:Null}" sap:VirtualizedContainerService.HintSize="1178,1222" sap2010:WorkflowViewState.IdRef="ActivityBuilder_1" xmlns="http://schemas.microsoft.com/netfx/2009/xaml/activities" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:sap="http://schemas.microsoft.com/netfx/2009/xaml/activities/presentation" xmlns:sap2010="http://schemas.microsoft.com/netfx/2010/xaml/activities/presentation" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:sco="clr-namespace:System.Collections.ObjectModel;assembly=System.Private.CoreLib" xmlns:ui="http://schemas.uipath.com/workflow/activities" xmlns:uix="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <TextExpression.NamespacesForImplementation>
+    <sco:Collection x:TypeArguments="x:String">
+      <x:String>System.Activities</x:String>
+      <x:String>System.Activities.Statements</x:String>
+      <x:String>System.Activities.Expressions</x:String>
+      <x:String>System.Activities.Validation</x:String>
+      <x:String>System.Activities.XamlIntegration</x:String>
+      <x:String>Microsoft.VisualBasic</x:String>
+      <x:String>Microsoft.VisualBasic.Activities</x:String>
+      <x:String>System</x:String>
+      <x:String>System.Collections</x:String>
+      <x:String>System.Collections.Generic</x:String>
+      <x:String>System.Data</x:String>
+      <x:String>System.Diagnostics</x:String>
+      <x:String>System.Drawing</x:String>
+      <x:String>System.IO</x:String>
+      <x:String>System.Linq</x:String>
+      <x:String>System.Net.Mail</x:String>
+      <x:String>System.Xml</x:String>
+      <x:String>System.Xml.Linq</x:String>
+      <x:String>UiPath.Core</x:String>
+      <x:String>UiPath.Core.Activities</x:String>
+      <x:String>System.Windows.Markup</x:String>
+      <x:String>GlobalVariablesNamespace</x:String>
+      <x:String>GlobalConstantsNamespace</x:String>
+      <x:String>UiPath.UIAutomationNext.Enums</x:String>
+      <x:String>UiPath.UIAutomationCore.Contracts</x:String>
+      <x:String>UiPath.UIAutomationNext.Activities</x:String>
+      <x:String>UiPath.Platform.ObjectLibrary</x:String>
+      <x:String>UiPath.Shared.Activities</x:String>
+      <x:String>UiPath.CV</x:String>
+      <x:String>UiPath.Shared.ObjectLibrary</x:String>
+      <x:String>UiPath.CV.Activities</x:String>
+      <x:String>UiPath.CV.Activities.Interfaces</x:String>
+      <x:String>UiPath.UIAutomationNext.Triggers</x:String>
+      <x:String>UiPath.Platform.Triggers</x:String>
+      <x:String>UiPath.Platform.Triggers.Scope</x:String>
+      <x:String>UiPath.UIAutomationNext.Activities.Triggers</x:String>
+      <x:String>System.Reflection</x:String>
+      <x:String>System.Runtime.Serialization</x:String>
+      <x:String>UiPath.Vision.OCR</x:String>
+      <x:String>UiPath.OCR.Contracts</x:String>
+      <x:String>UiPath.OCR.Activities</x:String>
+      <x:String>UiPath.OCR.Contracts.Activities</x:String>
+      <x:String>UiPath.Core.Activities.Orchestrator</x:String>
+    </sco:Collection>
+  </TextExpression.NamespacesForImplementation>
+  <TextExpression.ReferencesForImplementation>
+    <scg:List x:TypeArguments="AssemblyReference" Capacity="52">
+      <AssemblyReference>System.Activities</AssemblyReference>
+      <AssemblyReference>Microsoft.VisualBasic</AssemblyReference>
+      <AssemblyReference>mscorlib</AssemblyReference>
+      <AssemblyReference>System.Data</AssemblyReference>
+      <AssemblyReference>System</AssemblyReference>
+      <AssemblyReference>System.Drawing</AssemblyReference>
+      <AssemblyReference>System.Core</AssemblyReference>
+      <AssemblyReference>System.Xml</AssemblyReference>
+      <AssemblyReference>System.Xml.Linq</AssemblyReference>
+      <AssemblyReference>PresentationFramework</AssemblyReference>
+      <AssemblyReference>WindowsBase</AssemblyReference>
+      <AssemblyReference>PresentationCore</AssemblyReference>
+      <AssemblyReference>System.Xaml</AssemblyReference>
+      <AssemblyReference>UiPath.System.Activities</AssemblyReference>
+      <AssemblyReference>UiPath.UiAutomation.Activities</AssemblyReference>
+      <AssemblyReference>System.Data.DataSetExtensions</AssemblyReference>
+      <AssemblyReference>UiPath.Studio.Constants</AssemblyReference>
+      <AssemblyReference>UiPath.UIAutomationNext</AssemblyReference>
+      <AssemblyReference>UiPath.UIAutomationCore</AssemblyReference>
+      <AssemblyReference>UiPath.UIAutomationNext.Activities</AssemblyReference>
+      <AssemblyReference>UiPath.Platform</AssemblyReference>
+      <AssemblyReference>UiPath.Excel.Activities</AssemblyReference>
+      <AssemblyReference>UiPath.Mail.Activities</AssemblyReference>
+      <AssemblyReference>UiPath.Testing.Activities</AssemblyReference>
+      <AssemblyReference>UiPath.OCR.Activities</AssemblyReference>
+      <AssemblyReference>UiPath.CV</AssemblyReference>
+      <AssemblyReference>UiPath.UIAutomationNext.Activities.Design</AssemblyReference>
+      <AssemblyReference>UiPath.CV.Activities</AssemblyReference>
+      <AssemblyReference>UiPath.System.Activities.Design</AssemblyReference>
+      <AssemblyReference>UiPath.System.Activities.ViewModels</AssemblyReference>
+      <AssemblyReference>NPOI</AssemblyReference>
+      <AssemblyReference>System.Memory.Data</AssemblyReference>
+      <AssemblyReference>System.ComponentModel.TypeConverter</AssemblyReference>
+      <AssemblyReference>System.Console</AssemblyReference>
+      <AssemblyReference>System.Configuration.ConfigurationManager</AssemblyReference>
+      <AssemblyReference>System.Security.Permissions</AssemblyReference>
+      <AssemblyReference>System.Private.CoreLib</AssemblyReference>
+      <AssemblyReference>System.ComponentModel</AssemblyReference>
+      <AssemblyReference>System.Memory</AssemblyReference>
+      <AssemblyReference>System.Private.Uri</AssemblyReference>
+      <AssemblyReference>System.Reflection.DispatchProxy</AssemblyReference>
+      <AssemblyReference>System.Reflection.TypeExtensions</AssemblyReference>
+      <AssemblyReference>System.ObjectModel</AssemblyReference>
+      <AssemblyReference>System.Reflection.Metadata</AssemblyReference>
+      <AssemblyReference>System.Private.ServiceModel</AssemblyReference>
+      <AssemblyReference>System.Runtime.Serialization.Formatters</AssemblyReference>
+      <AssemblyReference>System.Private.DataContractSerialization</AssemblyReference>
+      <AssemblyReference>System.Runtime.Serialization.Primitives</AssemblyReference>
+      <AssemblyReference>UiPath.OCR.Core</AssemblyReference>
+      <AssemblyReference>UiPath.Vision.Core</AssemblyReference>
+      <AssemblyReference>UiPath.OCR.Contracts</AssemblyReference>
+    </scg:List>
+  </TextExpression.ReferencesForImplementation>
+  <Sequence sap:VirtualizedContainerService.HintSize="546,1157" sap2010:WorkflowViewState.IdRef="Sequence_2">
+    <sap:WorkflowViewStateService.ViewState>
+      <scg:Dictionary x:TypeArguments="x:String, x:Object">
+        <x:Boolean x:Key="IsExpanded">True</x:Boolean>
+      </scg:Dictionary>
+    </sap:WorkflowViewStateService.ViewState>
+    <uix:NApplicationCard AttachMode="ByInstance" DisplayName="Use Browser Chrome: BTK Akademi" sap:VirtualizedContainerService.HintSize="484,1046" sap2010:WorkflowViewState.IdRef="NApplicationCard_1" InteractionMode="DebuggerApi" ScopeGuid="86629f08-e3a9-48f4-b5b9-2f353b43fa3c" Version="V2">
+      <uix:NApplicationCard.Body>
+        <ActivityAction x:TypeArguments="x:Object">
+          <ActivityAction.Argument>
+            <DelegateInArgument x:TypeArguments="x:Object" Name="WSSessionData" />
+          </ActivityAction.Argument>
+          <Sequence DisplayName="Do" sap:VirtualizedContainerService.HintSize="450,829" sap2010:WorkflowViewState.IdRef="Sequence_4">
+            <sap:WorkflowViewStateService.ViewState>
+              <scg:Dictionary x:TypeArguments="x:String, x:Object">
+                <x:Boolean x:Key="IsExpanded">True</x:Boolean>
+              </scg:Dictionary>
+            </sap:WorkflowViewStateService.ViewState>
+            <uix:NClick sap2010:Annotation.AnnotationText="" ClickType="Single" DisplayName="Click 'BTK Giriş Yap Butonu'" sap:VirtualizedContainerService.HintSize="388,188" sap2010:WorkflowViewState.IdRef="NClick_1" KeyModifiers="None" MouseButton="Left" ScopeIdentifier="86629f08-e3a9-48f4-b5b9-2f353b43fa3c" Version="V3">
+              <uix:NClick.Target>
+                <uix:TargetAnchorable BrowserURL="https://www.btkakademi.gov.tr/portal" DesignTimeRectangle="1445, 166, 132, 48" DesignTimeScaleFactor="1" ElementType="Button" FriendlyName="'Giriş Yap'" FullSelectorArgument="&lt;webctrl aaname='Giriş Yap' tag='BUTTON' /&gt;" FuzzySelectorArgument="&lt;webctrl aaname='Giriş Yap' tag='BUTTON' type='button' class='ant-btn ant-btn-default PrimaryMedium-sc-6n0thy-0 gniSem px-3 py-4' check:innerText='Giriş Yap' /&gt;" Guid="2dde9961-cbd6-4e5b-9d27-8d3cbf470439" ImageBase64="iVBORw0KGgoAAAANSUhEUgAAAIgAAAA0CAYAAABRsnBcAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAVSSURBVHhe7ZzPahtXFMb7Itlk2zfwE4Q8QLLMot12U+jOi4AJBEO7MNTFixovSg3qQgkGl2JMcYtrStWFkSmhUosqilEsRZFkyTPyaHR6v5k5ozvysRwr8oxrnQ9+4Ll/Zia6n845d8bxB6RSTZAaRDVRokG+OujSw/U3dP/5a7r3rKbcYbDGWGusuaSEQSrNQTBYOpFy98HawwO2EgZRcyjwgK3YIAgx0gRl/rDTTWwQjR4KY0eR2CD3n8uDlfkDXmDFBpEGKvMLSw2iiLDUIIoISw2iiLDUIIoISw2iiLDUIIoISw2iiLAyNcijb5r0S6VPbWcYgJ/RJo1V0oWVmUG++El+vQyhT5qjpAcrE4MgSkAdd0gff/c2aPvw89f06VY7aIM0kmQLKxODHPzTD67J5rCBSSCMGe+bCVsOlUw6K/x6mQHrtFI1Ka/l0pLYPx+wMjEIRwmpD5EEQk0i9V/FwoseFTrh+QN5QyoVO/SAx+yZmsc0n7xqXZgb0qQ8Apzn0ZrYL7OwG56Xmg49tvv2zslFuzHcE7v9lsO6tQbBGKl/IrkzKnlmsm9MUXEpX3TpqBte6+TPtjxnZjRps4Ermei0d7Ftf8cee/th3akUs2xSA3T0W33UvtqjI1yuf07LON4Jv+ntSsf0d2jfMQfOgI5amDug/GotWlSPNoNz1Gmx6FHbRxuaw4i0wOe32XLpBGM4ikTXosZZeLzaofyxTy6fy1x3d68Rzo3GntTOqRp+PEQ9j/LfW/+WFGFlWqQijXxkTIKogXaYA23Q9YtUs9g9M9G/mBoe5Fr0ycu3YZqRDAKZxSqduIGJEgaJUoTbcGj5hy7tNnF/dpSwqdNaLezf36nTRvA5+7S7FfaHBh5StdylxR9NLQQjIJUZU8ZmQvQrO5QvG1Pi2OlnUguxMjEImP02t0sFfOBXfaCSQfrRIkVjEgY5RM6yolLulDaLDm3sXPIbeDmXqpjQGgTRxK31omjzhp5sWUY1LFXYTOY4cV9h/8q/Vn/UlhaszAwCECWQSlBvAPw8/fZ23CBWdAgULbhkkDFTJQzybVTXGLkdjwrlHi2uj8ZexOyCgoWFBrSds/rWT2m7MRylmECXG4TNWTqMjlOElalBZst4imnS0u8mVJtveyEIVlMaBKy3aaXYpxLvjnyftqO0IRJdA7XHqN0qWPfDKHJVBFGDzBguUqvFZPGbWPBrGmT5lRfXJuhbOPCCmqT9t7WQ44gGuXgtTTFjIH3wu5erNNW7mTgdmEKwim2uQ9sV3oFMZ5DH0be4fXxGyy9N/XEc3ntipzSOaJAWbXfQOFaEjhmEPJ8Kf1j9XZc+s8+dEqzUDDKpKL1K1ypacz3atfO82RW0Gy6tvYgW9JoGufeskdzmmvNVy6ejB28SokEM5t6OkAahvtniVsP/xVY6NPfG99X0EtvcDb7vlGGlYhBEAQiF6NOdTrytnQTGYCxr+uJ1Rmw4we6kXTu7mW90wrhCf8qwUjEIPxjDgkv9k2CTTPPgbNYs/IxnIjdUE8yzQfjR+rtEjnH40fu072Zmh6lvzH24N/USb54NwpL63gWW1KfcDCw1iCLCSq0GeZ8a4n3nK9eHlYpBlP8fLDWIIsJSgygiLDWIIsJSgygiLDWIIsJSgygiLDWIIsKKDaJ/xE5hxD9i9/Dr6NfvlbkHXmDFBvly/3a8RVSyB15gxQYZDAYaRZTAA/ACKzaI7/v0V91Vk8wxWHt4AF5gxQaB4BzP84IQg8FauN59sMZYa6w51t6OHlDCIMPhMDaJMn9g7eEBWwmDsBBi1CjzA9baTisjEf0HbWlqnUbAld4AAAAASUVORK5CYII=" InformativeScreenshot="485de1a45d71574982a5d6f8e1b50f90.png" ScopeSelectorArgument="&lt;html app='chrome.exe' title='BTK Akademi' /&gt;" SearchSteps="FuzzySelector, Image" Version="V2" Visibility="Interactive">
+                  <uix:TargetAnchorable.Anchors>
+                    <scg:List x:TypeArguments="uix:ITarget" Capacity="4">
+                      <uix:Target DesignTimeRectangle="1493, 179, 56, 22" ElementType="Text" FriendlyName="'Giriş Yap'" FullSelectorArgument="&lt;webctrl aaname='Giriş Yap' tag='SPAN' /&gt;" FuzzySelectorArgument="&lt;webctrl aaname='Giriş Yap' tag='SPAN' type='' class=' order-1 mx-1' check:innerText='Giriş Yap' /&gt;" ImageBase64="iVBORw0KGgoAAAANSUhEUgAAADwAAAAaCAYAAADrCT9ZAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAMgSURBVFhH7VfBattAEO2P5Ef8BfmDHPMFPfaWW8jFxxwCuQSfGvDFCQaXYkwxxZRS9xBsSqhMMaIEYSuq5ViWFFl+nZFW1q6lJsRN2uB44YF3ZnZ33szsrPxq68DAS8KG8LpjQ3jdsSF8L6ouNHeO9mcrX38wxKE+hz3ysJ+r/7/IEC6cOWiP51iMYA6tM8Z2YtP0YZN4cDlS1qWwULF4XYDjXH0+Co14X1gudmRd8xYeyymAu7J8RaiEy1NoAW0eEsm+h0rHQ3cSkx98t5WFjw8LpyafRNXTzMpaddl2dSiEi1SKPLpfhqnRkYOuT0L/FkWe1+NM2P0x6cdouTRxZ+iOeO0MlSNDOBngNNpjiL1OADtkGYvjiikk+8uoehiwTZJlcRbMaTw/GqNyFcJL9qJzG00zXitsB8YtdPaXhxOg8k7iQpAIk/MOGYXZUtwuj/D6/Fdc1nmEedDh2sCLgqIQFiXpmS6K7ydoWBwYOYsyhjg2Yn2rPkTJ4H1CNKqxPk7IHHpvgr0P1EuYGF8dCvIiOFydPReVHgWZ566v9BKJ8ARt3mDJIIM8wr44VNgohC/4jkhVU77BacdFqX69sFdQ9qDzgtEsyrZnOKIarrFblQJP2O8nwaG54lesP/wp6YXsDsJS9qIhCOQRXgqSQvit6As0vHGAds/B3klqmwV1+chRHjPUypLu5AY1c56WdDT+TDgJtnYh5oQ7StrC/lcqDcpGe8LLViTMOLFx2PGhJd0/DFETZZoLcQbf3VQuNbBWnOX7MnwP4bRp6Z1fCxlDIfBAwsXLYHG3WVf4FER32v4hObaMXMLZs/6ypAmL8qPGoPOz5KLWTzrsaoR3RJTtqymK53R/r+KgKi/BMnIJj1Abs3CpKS0RRhCi/U3STzy8kfZWCTPKDhryPaGuZ5sejs+Egw8kvHVgqs8S7af3btIPmTzkEiaQb12+djx8epL0WfRTuyDfEr+sQHmWSonfAlnCT4WSG3Vf25gqEX80KInI0Qv8O8KEwkd+k9U79Wh4foSpP5BD3lP9qXiOGX4O2BBed2wIrzteGGEDvwEcpvTZURyQdAAAAABJRU5ErkJggg==" SearchSteps="FuzzySelector, Image" />
+                    </scg:List>
+                  </uix:TargetAnchorable.Anchors>
+                </uix:TargetAnchorable>
+              </uix:NClick.Target>
+              <sap:WorkflowViewStateService.ViewState>
+                <scg:Dictionary x:TypeArguments="x:String, x:Object">
+                  <x:Boolean x:Key="IsAnnotationDocked">True</x:Boolean>
+                </scg:Dictionary>
+              </sap:WorkflowViewStateService.ViewState>
+            </uix:NClick>
+            <uix:NClick ClickType="Single" DisplayName="Click 'E-Devlet ile Giriş Yap'" sap:VirtualizedContainerService.HintSize="388,157" sap2010:WorkflowViewState.IdRef="NClick_2" KeyModifiers="None" MouseButton="Left" ScopeIdentifier="86629f08-e3a9-48f4-b5b9-2f353b43fa3c" Version="V3">
+              <uix:NClick.Target>
+                <uix:TargetAnchorable BrowserURL="https://www.btkakademi.gov.tr/portal/sign-in?returnUrl=/" DesignTimeRectangle="796, 649, 337, 45" DesignTimeScaleFactor="1" ElementType="Button" FriendlyName="'E-Devlet ile Giriş Yap'" FullSelectorArgument="&lt;webctrl parentid='container-toggle' tag='BUTTON' type='button' /&gt;" FuzzySelectorArgument="&lt;webctrl parentid='container-toggle' tag='BUTTON' type='button' class='SimpleLoginForm__StyledPrimaryBig-sc-zq9g34-0 cDhLlC big-button w-100' aaname='E-Devlet ile Giriş Yap ' check:innerText='E-Devlet ile Giriş Yap' /&gt;" Guid="391c22df-8b27-44f7-9e27-8275a08f8e17" ImageBase64="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" InformativeScreenshot="f6638ea7efcda2c5b86c953a0e9fa115.png" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Akademi' /&gt;" SearchSteps="FuzzySelector, Image" Version="V2" Visibility="Interactive" />
+              </uix:NClick.Target>
+            </uix:NClick>
+            <uix:NClick ClickType="Single" DisplayName="Click 'Yazılım Dünyası'" sap:VirtualizedContainerService.HintSize="388,157" sap2010:WorkflowViewState.IdRef="NClick_4" KeyModifiers="None" MouseButton="Left" ScopeIdentifier="86629f08-e3a9-48f4-b5b9-2f353b43fa3c" Version="V3">
+              <uix:NClick.Target>
+                <uix:TargetAnchorable BrowserURL="https://www.btkakademi.gov.tr/portal" DesignTimeRectangle="276, 312, 98, 22" DesignTimeScaleFactor="1" ElementType="Text" FriendlyName="'Yazılım Dünyası'" FullSelectorArgument="&lt;webctrl parentid='container-toggle' tag='P' /&gt;" FuzzySelectorArgument="&lt;webctrl parentid='container-toggle' tag='P' type='' class='mx-2 my-0 hover:font-medium whitespace-nowrap overflow-hidden text-ellipsis' aaname='Yazılım Dünyası' check:innerText='Yazılım Dünyası' /&gt;" Guid="3d75710b-985c-46e6-bec8-d05e92bd10ca" ImageBase64="iVBORw0KGgoAAAANSUhEUgAAAGYAAAAaCAYAAABFPynYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAARGSURBVGhD7VfdaxpPFO0/7oMPffDFB5ENNT+0YlLhtxgRlpqKKYtYlJINETHElqViwWCwpqz40Ro5vfOxX8Y0SrDZhz2wMLMz7sy9595zr68QIpAIiQkoQmICipCYgCIkJqAIiQko/jkxg5qKSLaBgZy/BG7NK3R+sNEM/asu+lP+OlBwiEkoaaQuf8mZxMpE/k0acX0oXzwf+yNmBC2bRiTpPtHjMqrfZnLdxneoh2ko5xaNTeTIbjEOFhxizLM8Iuk6zJV8QeBOPDxDx/Puudg3MfHaiM+W0xG65xXElCNkOuvkBB+ulC26yFB2pC6kEetzSvtuTUPsQEZjWkP1Ri51yr5ItZ9Mhy3Sd5zxGjHDBuJJFZpMSKNEjv1gQM1lxTcOVKhfLPSbdC5FNnsXKxjobwwUPzE2bpsnvuDiZ3j3+O7A7qqi2DKQSovzojkdLS514vuxj56Q6tfxOnmC6pjGqzs0tRNE5T2jx/bvBCZfdCTIn9yuNydQr+0s9fvHhq/GcKfJrDE/ygySa+PzEhlYRvPnPc3uYepyr1j24Bda2hEiuYZ04G7ERA416IMZlr8tGO/pDmRorHCJ/uIe8/EVMiRDieYm6dlMDBZtpJJHKPbF9Gli6A65Ojpk53L6HUX6ZvS0x7euZzufHxu4pXH3g7DZXNBkZaFZonmhjTnbaF1CYZnbsrAk341bZZfQbYjBqoc8M1xvIKVkabNbc5ZTC+MpI0VCGnTKi6iL+XUFrxUy1M6mHYmJeevZTQOxZN7zLUleqStnXjxCzNr5TxPjksjA75v7zJ2PsYGEs/cO1WPyVeOOTTCfWJgwUmwwFVEqaLExP6ME3ckgC93WFbo/2XgbYgiTC02k2zsRCQ4oCjoeKROP61SOBRVTIjZe877cjZjHnSawf2L85/mzxEOGxUiyo57we+STMvGUYfDFEfT/KYOUPJRSHdWvQ8wdOd6SGGdjW04l+AWZlI1lFj1w2oyM9kqYjRcmZmcp+xsxVLMaVLMoaAcsgKWMMfk2SlQXyfaurSq87trECMxvetBrFSisfr3V0eEZtisxaxsfGMRlxjViQhdhEnbqMUrgZYnZVPx9crkjMXamJN65Mmaf7fNZ2yVmfmOieU1ZIlacvyFi/zOJ4cUtSyyPZ5iMeyhSSjtSNqXfMAn7tBatHC9DDGuXO7USBYu/Xebnp89g8OI+hF4gu3YhhupDlUjxy7hFUkVNgkpNypT8M7hE5j+2R2bM1zMetEVTNC1z6ubilMXqNzZ7JjFYDVEtUJdEa6yNzZ3XodgS8Ui7LJz0b4nxnr/xDyazg+k923OQR+q07Mn8bYiRcrb2DlPTbfPpr4T2iZqgpIa6bAhu2xW3XSb/ZS7sQ7YmJsRTeBBAe0BIzA7gfxl6lMWKpxvbE0JidkBLIxmimqU0PVq3J4TEBBQhMQFFSExAERITUITEBBQhMYEE8AdBN6VjkDSUWgAAAABJRU5ErkJggg==" InformativeScreenshot="2d1004d3208a9db8a7c24f6629857d9d.png" ScopeSelectorArgument="&lt;html app='chrome.exe' title='BTK Akademi' /&gt;" SearchSteps="FuzzySelector, Image" Version="V2" Visibility="Interactive" />
+              </uix:NClick.Target>
+            </uix:NClick>
+            <ui:LogMessage DisplayName="Log Message" sap:VirtualizedContainerService.HintSize="388,92" sap2010:WorkflowViewState.IdRef="LogMessage_1" Level="Info" Message="[&quot;Yazılım Dünyası&quot;]" />
+          </Sequence>
+        </ActivityAction>
+      </uix:NApplicationCard.Body>
+      <uix:NApplicationCard.TargetApp>
+        <uix:TargetApp Area="0, 0, 0, 0" BrowserType="Chrome" IconBase64="iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAACxEAAAsRAX9kX5EAAAGoSURBVFhH7ZfBccIwFERTAiVQAocUQAE5pISUkBIogVtuGUrIIQWkBEpICXTg7Hr0mT+eZ0smmuTC4Q326rN/kWXZPAzD8K+gGDy+f+7FicZ6gWJQAgziSOM9QDFIAb7Eq9hR3W9AMZgEOIiL6BoCxUDNpgF8fKDaW0ExUDMMID7EJtXdvFBRDGQ8F8DnZ7ERJ6Fy9qiBYiDjpQA+jnGVs0cNFIPU4B7gHqAW4EzfbwHFIDVYCjDejqV+9SaFYlAaLAV4EkfxLLwfrN6QUAxk2DIDoRvvkFvymgPFQGYtAXblOPgWL+RHoJiRmad2LoAvgZ+Q/uU+fxPNzQ2KU2wqMECqsW48I9eFWQNFophPA+wnNeO5Pj1rTSFQJGRWDZBq/fY01tJ4BkXCZmEqagF8a3r8QuMZFAmZNQWQ5ncEL0yPm8VXOBQJGWEA4dvOU+7G3pB8Hs3HGvILUCRkdL2uIgfIzYhuAbbFcE2AfmvAyNAbzpoA1WcDinPI0NfZm1JLAC/EfvtARsbjm7CYC+CF2PQHBsUW1MArPtZFbuxL1LQNGxT/juHhB7BlAGK0JXEVAAAAAElFTkSuQmCC" InformativeScreenshot="69a72724e5cd6c6621e6c578bbe58a44.jpg" Selector="&lt;html app='chrome.exe' title='BTK Akademi' /&gt;" Url="https://www.btkakademi.gov.tr/portal" />
+      </uix:NApplicationCard.TargetApp>
+    </uix:NApplicationCard>
+  </Sequence>
 </Activity>
